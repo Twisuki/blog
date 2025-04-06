@@ -47,3 +47,8 @@
 	//    margin-top: 10vw;
 	//}
 }
+
+// 文章非滚动时不显示toc
+div.vp-toc-placeholder {
+	//display: none !important;
+}
