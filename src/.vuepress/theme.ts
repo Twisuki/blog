@@ -66,7 +66,7 @@ export default hopeTheme(
 		// toc: false,
 
 		darkmode: "toggle",
-		fullscreen: true,
+		// fullscreen: true,
 		// focus: true,
 
 		// 多语言配置
