@@ -112,7 +112,8 @@ export default hopeTheme(
 			// 取消注释它们如果你需要 TeX 支持
 			math: {
 				// 启用前安装 katex
-				type: "mathjax",
+				type: "katex",
+				output: "html"
 				// 或者安装 mathjax-full
 				// type: "mathjax",
 			},
