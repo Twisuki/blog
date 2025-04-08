@@ -18,6 +18,12 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		icon: "https://github.com/Asankilp.png",
 		desc: "MarshoAI的开发者",
 		link: "https://github.com/Asankilp"
+	},
+	{
+		name: "Dislink Sforza 断联",
+		icon: "https://github.com/Dislink.png",
+		desc: "Undefined",
+		link: "https://github.com/Dislink"
 	}
 ]
 export default friends
