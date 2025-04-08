@@ -113,7 +113,7 @@ export default hopeTheme(
 			math: {
 				// 启用前安装 katex
 				type: "katex",
-				output: "html"
+				output: "htmlAndMathml"
 				// 或者安装 mathjax-full
 				// type: "mathjax",
 			},
