@@ -1,6 +1,23 @@
 // you can change config here
+// 默认
 //$theme-color: #096dd9;
+
+// 正常
 $theme-color: (
 		light: #3eaf7c,
 		dark: #2196f3,
 );
+
+// 炸了
+//$theme-color: (
+//  (
+//    light: rgb(59, 186, 129),
+//    dark: rgb(30, 140, 90),
+//  ),
+//  #2196f3,
+//  #f26d6d,
+//  #fb9b5f
+//);
+
+// 还是炸了
+//$theme-color: #3eaf7c, #2196f3, #f26d6d, #fb9b5f;
