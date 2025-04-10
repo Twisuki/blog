@@ -15,6 +15,7 @@
     "@vuepress/helper": "2.0.0-rc.91",
     "@vuepress/plugin-docsearch": "2.0.0-rc.91",
     "katex": "^0.16.21",
+    "sass-embedded": "^1.86.3",
     "vue": "^3.5.13",
     "vuepress": "2.0.0-rc.20",
     "vuepress-theme-hope": "2.0.0-rc.78"
