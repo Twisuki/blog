@@ -63,8 +63,7 @@ I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnica
   <a href="https://github.com/tanhHeng/GraduateTextsInTechnicalMC"><img src="https://camo.githubusercontent.com/9a51105dc29d449c0d6f7a4de5e374b67b1b0decc278754d104f3cbcf0f0189b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545382538422538462545392539382542332d47544d432d677265656e" alt="GTMC" data-canonical-src="https://img.shields.io/badge/%E8%8B%8F%E9%98%B3-GTMC-green" style="max-width: 100%;"></a>
 </div>
 
-
-<img id="light-img" src="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg" />
+<img id="light-img" class="mid" src="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg" />
 
 ### 我的仓库 Repository
 
