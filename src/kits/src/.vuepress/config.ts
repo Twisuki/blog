@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 
-import theme from "./theme.js";
+import theme from "../../../.vuepress/theme.js";
 
 export default defineUserConfig({
   base: "/",
@@ -9,7 +9,7 @@ export default defineUserConfig({
   title: "文档演示",
   description: "vuepress-theme-hope 的文档演示",
 
-  ...theme,
+  theme,
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
