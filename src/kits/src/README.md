@@ -95,15 +95,31 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
     features:
       - title: Mr.Hope
-        details: 本项目主题Vuepress-theme-hope开发者
-        link: https://github.com/Mister-Hope
+        details: 本项目主题开发者
+        link: https://mister-hope.com/
 
       - title: SilverAg.L
         details: 博客主题推荐
         link: https://agxcoy.shimakaze.org/
 
-      - title: isp
-        details: isp
-        link: isp
+      - title: Asankilp
+        details: 借用了Github徽标
+        link: https://github.com/Asankilp
+
+      - title: SnowyKami
+        details: 提供了部分技术支持
+        link: https://sfkm.me/
+
+      - title: Vuepress Theme Hope
+        details: 本blog使用的框架
+        link: https://theme-hope.vuejs.press/zh/
+
+      - title: Github Snake
+        details: 贪吃蛇 x Github地铁站
+        link: https://github.com/Platane/snk
+
+      - title: Typing SVG
+        details: 打字SVG图片生成
+        link: https://readme-typing-svg.demolab.com/demo/
 
 ---
