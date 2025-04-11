@@ -37,12 +37,7 @@ export default sidebar({
 				}
 			],
 		},
-		{
-			text: "工具 kites",
-			icon: "gears",
-			prefix: "kits/src/",
-			children: "structure",
-		},
+		"kits/src/",
 		{
 			text: "项目 projects",
 			icon: "star",
