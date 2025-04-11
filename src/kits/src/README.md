@@ -30,17 +30,17 @@ highlights:
       background-size: initial
     features:
       - title: StarredDir
-        icon: lucide:play
+        icon: mdi:terminal
         details: 基于bat批处理文件的路径收藏夹
         link: https://github.com/Twisuki/starred-dir
 
       - title: GTMC T版绿萌教程
-        icon: box-archive
+        icon: material-symbols:book-3-outline-rounded
         details: 一份从零到一的绿萌教程
         link: https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F
 
       - title: 弦月档案
-        icon: bell
+        icon: material-symbols:account-tree-outline-rounded
         details: MC up火弦月的投影资源站
         link: https://hxy.twis.uk/
 
@@ -50,17 +50,17 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     features:
       - title: LaTeX Live
-        icon: circle-half-stroke
+        icon: tabler:tex
         details: 妈咪叔的LaTeX公式编辑器
         link: https://www.latexlive.com/
 
       - title: System Informer
-        icon: palette
+        icon: mdi:subtasks
         details: 功能强大的任务管理器
         link: https://www.systeminformer.com/
 
       - title: Windows Terminal
-        icon: ellipsis
+        icon: mdi:terminal
         details: WT终端(win11已内置)
         link: https://learn.microsoft.com/zh-cn/windows/terminal/install
 
@@ -70,24 +70,19 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     features:
       - title: Gif123
-        icon: blog
+        icon: mdi:file-gif-box
         details: 快速gif录制工具
         link: https://github.com/aardio/Gif123
 
       - title: Mp3Tag
-        icon: house
+        icon: solar:tag-bold
         details: MP3文件Tag信息编辑器
         link: https://www.mp3tag.de/en/index.html
 
       - title: wavetone
-        icon: circle-info
+        icon: solar:music-notes-bold-duotone
         details: 音高分析, bpm分析软件, 辅助扒谱工具
         link: ./404
-
-      - title: 时间线
-        icon: clock
-        details: 在时间线中浏览和通读博文
-        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
   - header: 使用项目与特别鸣谢
     image: /assets/image/advanced.svg
