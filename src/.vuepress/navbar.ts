@@ -4,7 +4,7 @@ export default navbar([
 	"/",
 	"intro",
 	"/notes/",
-	"/kits/",
+	"/kits/src/",
 	"friend",
 	{
 		text: "项目 projects",

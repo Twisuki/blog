@@ -40,7 +40,7 @@ export default sidebar({
 		{
 			text: "工具 kites",
 			icon: "gears",
-			prefix: "kits/",
+			prefix: "kits/src/",
 			children: "structure",
 		},
 		{
