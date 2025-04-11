@@ -163,31 +163,21 @@ highlights:
         details: 在时间线中浏览和通读博文
         link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
-  - header: 高级
-    description: 增强站点与用户体验的高级功能
+  - header: 特别鸣谢
     image: /assets/image/advanced.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO 增强
-        icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
+    features:
+      - title: Mr.Hope
+        details: 本项目主题Vuepress-theme-hope开发者
+        link: https://github.com/Mister-Hope
 
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
+      - title: SilverAg.L
+        details: 博客主题推荐
+        link: https://agxcoy.shimakaze.org/
 
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
-
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
+      - title: isp
+        details: isp
+        link: isp
 
 ---
-
