@@ -44,6 +44,11 @@ highlights:
         details: MC up火弦月的投影资源站
         link: https://hxy.twis.uk/
 
+      - title: 线代笔记
+        icon: material-symbols:account-tree-outline-rounded
+        details: 线性代数学习笔记
+        link: https://twis.uk/Notes-on-Linear-Algebra/
+
   - header: 开发工具
     image: /assets/image/ui.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
