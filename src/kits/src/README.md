@@ -45,7 +45,7 @@ highlights:
         link: https://hxy.twis.uk/
 
       - title: 线代笔记
-        icon: material-symbols:account-tree-outline-rounded
+        icon: tabler:brand-matrix
         details: 线性代数学习笔记
         link: https://twis.uk/Notes-on-Linear-Algebra/
 
