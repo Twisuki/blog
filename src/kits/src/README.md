@@ -33,6 +33,11 @@ highlights:
         icon: mdi:terminal
         details: 基于bat批处理文件的路径收藏夹
         link: https://github.com/Twisuki/starred-dir
+    
+      - title: Kirafint
+        icon: tabler:brand-nodejs
+        details: 基于Deepseek API和本地模型的AI Demo
+        link: https://github.com/Twisuki/Kirafint
 
       - title: GTMC T版绿萌教程
         icon: material-symbols:book-3-outline-rounded
