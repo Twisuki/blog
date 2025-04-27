@@ -63,6 +63,8 @@ export default hopeTheme(
 			"Tag",
 		],
 
+		contributors: false,
+
 		// toc: false,
 
 		darkmode: "toggle",
