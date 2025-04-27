@@ -34,7 +34,7 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 	{
 		name: "yuhan2680 小涵",
 		icon: "/friends/yuhan2680.jpg",
-		desc: "Description !!",
+		desc: "你好, 这里是小涵w",
 		link: "https://github.com/yuhan2680"
 	},
 	{
@@ -44,10 +44,10 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		link: "https://github.com/ChenXu233"
 	},
 	{
-		name: "ChenXu233",
-		icon: "/friends/yuhan2680.jpg",
-		desc: "Description !!",
-		link: "https://github.com/yuhan2680"
+		name: "BFladderbean",
+		icon: "/friends/BFladderbean.jpg",
+		desc: "OIer(AFOed)/Front-End/Back-End/Machine Learning. C++/Go/JS/TS/Python",
+		link: "https://github.com/BFladderbean"
 	}
 ]
 export default friends
