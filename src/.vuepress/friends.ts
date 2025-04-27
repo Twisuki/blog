@@ -24,6 +24,30 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		icon: "https://github.com/Dislink.png",
 		desc: "Undefined",
 		link: "https://github.com/Dislink"
+	},
+	{
+		name: "Ariasaka",
+		icon: "https://bu.dusays.com/2024/12/05/67517bcf104da.png",
+		desc: "人有悲欢离合 月有阴晴圆缺",
+		link: "https://blog.yaria.top"
+	},
+	{
+		name: "yuhan2680 小涵",
+		icon: "/friends/yuhan2680.jpg",
+		desc: "Description !!",
+		link: "https://github.com/yuhan2680"
+	},
+	{
+		name: "ChenXu233 沐浴晨煦",
+		icon: "https://github.com/ChenXu233.png",
+		desc: "Description !!",
+		link: "https://github.com/ChenXu233"
+	},
+	{
+		name: "ChenXu233",
+		icon: "/friends/yuhan2680.jpg",
+		desc: "Description !!",
+		link: "https://github.com/yuhan2680"
 	}
 ]
 export default friends
