@@ -63,6 +63,13 @@ div.vp-toc-placeholder {
     font-display: swap;
     src: url('https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2') format("woff2");
 }
+
+// 博客文章
 #markdown-content {
+	font-family: HYTMR,"sans-serif"
+}
+
+// 主页文本
+.vp-blog-hero-title, .vp-article-excerpt, .vp-project-desc, .vp-blogger-description {
 	font-family: HYTMR,"sans-serif"
 }
