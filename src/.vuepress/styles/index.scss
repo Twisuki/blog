@@ -56,3 +56,13 @@ div.vp-toc-placeholder {
 //button.vp-back-to-top-button ~ div.theme-container div.vp-toc-placeholder {
 //	display: none !important;
 //}
+
+// 自定义字体
+@font-face {
+    font-family: 'HYTMR';
+    font-display: swap;
+    src: url('https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2') format("woff2");
+}
+#markdown-content {
+	font-family: HYTMR,"sans-serif"
+}
