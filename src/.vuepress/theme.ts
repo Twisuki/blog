@@ -67,6 +67,8 @@ export default hopeTheme(
 
 		// toc: false,
 
+		favicon: "/favicon.ico",
+
 		darkmode: "toggle",
 		// fullscreen: true,
 		// focus: true,
