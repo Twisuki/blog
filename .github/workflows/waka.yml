@@ -32,7 +32,7 @@ jobs:
         with:
           repository: Twisuki/Twisuki.github.io
           path: twisuki-io-repo
-          token: ${{ secrets.GITHUB_TOKEN }}  # 需要有写入权限的 token
+          token: ${{ secrets.GH_TOKEN }}  # 需要有写入权限的 token
 
       - name: Update intro.md
         run: |
