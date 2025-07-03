@@ -18,35 +18,44 @@ jobs:
       - name: Extract Waka section
         id: extract-waka
         run: |
-          # 提取 README.md 中的 waka 部分
-          WAKA_SECTION=$(sed -n '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/p' twisuki-repo/README.md)
-          # 转义多行内容为单行
-          WAKA_SECTION_ESCAPED=$(echo "$WAKA_SECTION" | sed ':a;N;$!ba;s/\n/\\n/g')
-          # 设置输出变量
-          echo "WAKA_SECTION<<EOF" >> $GITHUB_OUTPUT
-          echo "$WAKA_SECTION_ESCAPED" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          # 使用 perl 提取 Waka 部分，处理多行和特殊字符更可靠
+          WAKA_SECTION=$(perl -ne 'print if /<!--START_SECTION:waka-->/../<!--END_SECTION:waka-->/' twisuki-repo/README.md)
+          # 存储到临时文件
+          echo "$WAKA_SECTION" > waka_section.txt
+          # 使用 base64 编码避免特殊字符问题
+          WAKA_BASE64=$(base64 -w 0 waka_section.txt)
+          echo "WAKA_BASE64=${WAKA_BASE64}" >> $GITHUB_ENV
 
       - name: Checkout Twisuki.github.io repo
         uses: actions/checkout@v4
         with:
           repository: Twisuki/Twisuki.github.io
           path: twisuki-io-repo
-          token: ${{ secrets.GH_TOKEN }}  # 需要有写入权限的 token
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Update intro.md
         run: |
-          # 替换 intro.md 中的 waka 部分
-          WAKA_SECTION="${{ steps.extract-waka.outputs.WAKA_SECTION }}"
-          # 取消转义
-          WAKA_SECTION_UNESCAPED=$(echo -e "$WAKA_SECTION")
-          # 使用 awk 进行替换
-          awk -v waka="$WAKA_SECTION_UNESCAPED" '
+          # 解码 Waka 部分
+          echo "$WAKA_BASE64" | base64 --decode > waka_section_decoded.txt
+          
+          # 使用 awk 处理文件替换，避免 shell 解释特殊字符
+          awk '
+            BEGIN {
+              RS = "\0"  # 将记录分隔符设为空字符，处理多行
+              while ((getline line < "waka_section_decoded.txt") > 0)
+                waka = waka line ORS
+              close("waka_section_decoded.txt")
+            }
             /<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/ {
-              if (/<!--START_SECTION:waka-->/) print; 
-              if (/<!--END_SECTION:waka-->/) print waka; next}
-            1
-          ' twisuki-io-repo/src/intro.md > tmp && mv tmp twisuki-io-repo/src/intro.md
+              if (/<!--START_SECTION:waka-->/) { print; in_section=1; next }
+              if (/<!--END_SECTION:waka-->/) { in_section=0; printf "%s", waka; next }
+              next
+            }
+            !in_section { print }
+          ' twisuki-io-repo/src/intro.md > tmp_intro.md
+          
+          mv tmp_intro.md twisuki-io-repo/src/intro.md
+          rm waka_section_decoded.txt
 
       - name: Commit and push changes
         run: |
