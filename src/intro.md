@@ -63,34 +63,6 @@ I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnica
   <a href="https://github.com/tanhHeng/GraduateTextsInTechnicalMC"><img src="https://camo.githubusercontent.com/9a51105dc29d449c0d6f7a4de5e374b67b1b0decc278754d104f3cbcf0f0189b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545382538422538462545392539382542332d47544d432d677265656e" alt="GTMC" data-canonical-src="https://img.shields.io/badge/%E8%8B%8F%E9%98%B3-GTMC-green" style="max-width: 100%;"></a>
 </div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2040%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-343.9%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-PyCharm                  16 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.92 % 
-Edge                     8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-IntelliJ IDEA            6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-
-🐱‍💻 Projects: 
-GemAudit                 19 hrs 52 mins      ███████████████░░░░░░░░░░   61.31 % 
-djLint                   6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-SeedcrackerX             3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-CogniCube                1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Twisuki                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-```
-
-
-<!--END_SECTION:waka-->
-
 <img id="light-img" class="mid" src="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg" />
 
 ### 我的仓库 Repository
