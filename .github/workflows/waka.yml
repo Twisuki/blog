@@ -67,8 +67,11 @@ jobs:
           git push
 
       - name: Trigger deploy workflow
-        uses: actions/github-script@v6
+        uses: peter-evans/repository-dispatch@v2
         with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: Twisuki/Twisuki.github.io
+          event-type: trigger-deploy
           script: |
             await github.rest.actions.createWorkflowDispatch({
               owner: 'Twisuki',
