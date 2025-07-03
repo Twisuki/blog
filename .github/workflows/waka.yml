@@ -1,0 +1,69 @@
+name: Update Waka Stats and Deploy
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update-waka:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Twisuki repo
+        uses: actions/checkout@v4
+        with:
+          repository: Twisuki/Twisuki
+          path: twisuki-repo
+
+      - name: Extract Waka section
+        id: extract-waka
+        run: |
+          # 提取 README.md 中的 waka 部分
+          WAKA_SECTION=$(sed -n '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/p' twisuki-repo/README.md)
+          # 转义多行内容为单行
+          WAKA_SECTION_ESCAPED=$(echo "$WAKA_SECTION" | sed ':a;N;$!ba;s/\n/\\n/g')
+          # 设置输出变量
+          echo "WAKA_SECTION<<EOF" >> $GITHUB_OUTPUT
+          echo "$WAKA_SECTION_ESCAPED" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Checkout Twisuki.github.io repo
+        uses: actions/checkout@v4
+        with:
+          repository: Twisuki/Twisuki.github.io
+          path: twisuki-io-repo
+          token: ${{ secrets.GITHUB_TOKEN }}  # 需要有写入权限的 token
+
+      - name: Update intro.md
+        run: |
+          # 替换 intro.md 中的 waka 部分
+          WAKA_SECTION="${{ steps.extract-waka.outputs.WAKA_SECTION }}"
+          # 取消转义
+          WAKA_SECTION_UNESCAPED=$(echo -e "$WAKA_SECTION")
+          # 使用 awk 进行替换
+          awk -v waka="$WAKA_SECTION_UNESCAPED" '
+            /<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/ {
+              if (/<!--START_SECTION:waka-->/) print; 
+              if (/<!--END_SECTION:waka-->/) print waka; next}
+            1
+          ' twisuki-io-repo/src/intro.md > tmp && mv tmp twisuki-io-repo/src/intro.md
+
+      - name: Commit and push changes
+        run: |
+          cd twisuki-io-repo
+          git config user.name "Twisuki"
+          git config user.email "100500860+Twisuki@users.noreply.github.com"
+          git add src/intro.md
+          git commit -m "chore: update waka stats [skip ci]"
+          git push
+
+      - name: Trigger deploy workflow
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'Twisuki',
+              repo: 'Twisuki.github.io',
+              workflow_id: 'deploy-docs.yml',
+              ref: 'main'
+            })
