@@ -13,4 +13,21 @@ export default defineUserConfig({
 
 	// 和 PWA 一起启用
 	// shouldPrefetch: false,
+	head: [
+		[
+			"link",
+			{
+				href: "https://unpkg.com/",
+				rel: "preconnect",
+				crossorigin: "",
+			},
+		],
+		[
+			"link",
+			{
+				href: "https://unpkg.com/@agxcoy/hytangmeiren-vp-hope@latest/style.css",
+				rel: "stylesheet",
+			},
+		],
+	],
 });
