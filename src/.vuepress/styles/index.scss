@@ -59,17 +59,23 @@ div.vp-toc-placeholder {
 
 // 自定义字体
 @font-face {
-    font-family: 'HYTMR';
-    font-display: swap;
-    src: url('https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2') format("woff2");
+    //font-family: 'HYTMR';
+    //font-display: swap;
+    //src: url('https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2') format("woff2");
 }
 
 // 博客文章
 #markdown-content {
-	font-family: HYTMR,"sans-serif";
+	// font-family: HYTMR,"sans-serif";
 }
 
 // 主页文本
 .vp-blog-hero-title, .vp-article-excerpt, .vp-project-desc, .vp-blogger-description {
-	font-family: HYTMR,"sans-serif";
+	// font-family: HYTMR,"sans-serif";
 }
+
+/*
+	2025.07.17
+	为避免版权问题, 停止使用`汉仪唐美人`字体.
+	字体链接: https://hanyi.com.cn/productdetail?id=8240&type=0
+ */
