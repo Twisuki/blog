@@ -53,10 +53,12 @@ Sexual orientation is Pansexual, gender is uncertain(?), currently considered Ag
 
 - 正在学习Python和web前端, 大部分贡献都是静态网页
 I am learning Python and web frontend, and most of the contribution are for static web pages.
-- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责MarshoAI的插件开发.
-Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for plugin development for MarshoAI.
+- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责部分前端开发.
+Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for parts of frontend.
 - 同时也是[GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)的一位编辑, 负责[T版绿萌教程](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F)的编写工作.
 I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC), in charge of compiling the [T-Ver. SlimeTech](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F).
+- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长.
+Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robotics, HNU.
 
 <div class="mid">
   <a href="https://github.com/LiteyukiStudio"><img src="https://camo.githubusercontent.com/5e7d34cafe0a84defaeb23584a99c9568d19fb16f9e4eb8ced656b34a79f41cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54776973756b692d4c69746579756b692d6c69676874626c7565" alt="Liteyuki" data-canonical-src="https://img.shields.io/badge/Twisuki-Liteyuki-lightblue" style="max-width: 100%;"></a>
@@ -104,17 +106,17 @@ Twisuki                  30 mins             ░░░░░░░░░░░�
   />
 
   <VPCard
-    title="nonebot-plugin-marshoai"
-    desc="NoneBot2 猫娘聊天插件"
-    logo="https://github.com/Asankilp.png"
-    link="https://github.com/Twisuki/nonebot-plugin-marshoai"
+    title="Application"
+    desc="机器人学院学生手册 | 一站式的学生信息获取站点"
+    logo="https://github.com/TZLakeStudio.png"
+    link="https://github.com/TZLakeStudio/Application"
   />
 
   <VPCard
-    title="yisibite"
-    desc="弦月档案 | 火弦月的投影寄存处"
-    logo="friends/yisibite.png"
-    link="https://github.com/Twisuki/yisibite"
+    title="djLint"
+    desc="✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang"
+    logo="https://github.com/djlint.png"
+    link="https://github.com/djlint/djLint"
   />
 
   <VPCard
@@ -135,52 +137,5 @@ Twisuki                  30 mins             ░░░░░░░░░░░�
 ### 访问总数 Visitors
 
 ![](https://profile-counter.glitch.me/twisuki/count.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
