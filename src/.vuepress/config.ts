@@ -7,7 +7,7 @@ export default defineUserConfig({
 
 	lang: "zh-CN",
 	title: "Twisuki",
-	description: "Twisuki的个人主页",
+	description: "TwisBlog, Twisuki乱七八糟的Blog",
 
 	theme,
 

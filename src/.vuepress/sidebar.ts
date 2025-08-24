@@ -47,13 +47,13 @@ export default sidebar({
 				{
 					text: "弦月档案",
 					icon: "link",
-					link: "https://twis.uk/yisibite",
+					link: "https://hxy.twis.uk",
 				},
 				{
 					text: "线代笔记",
 					icon: "link",
-					link: "https://twis.uk/Notes-on-Linear-Algebra"
-				}
+					link: "https://page.twis.uk/Notes-on-Linear-Algebra",
+				},
 			],
 		}
 	],
