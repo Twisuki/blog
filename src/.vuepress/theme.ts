@@ -5,16 +5,16 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme(
 	{
-		hostname: "https://twisuki.github.io",
+		hostname: "https://blog.twis.uk",
 
 		author: {
 			name: "Twisuki",
-			url: "https://twisuki.github.io",
+			url: "https://twis.uk",
 		},
 
 		logo: "avatar.png",
 
-		repo: "Twisuki/Twisuki.github.io",
+		repo: "Twisuki/blog",
 
 		docsDir: "src",
 
