@@ -26,10 +26,10 @@ jobs:
           WAKA_BASE64=$(base64 -w 0 waka_section.txt)
           echo "WAKA_BASE64=${WAKA_BASE64}" >> $GITHUB_ENV
 
-      - name: Checkout Twisuki.github.io repo
+      - name: Checkout blog repo
         uses: actions/checkout@v4
         with:
-          repository: Twisuki/Twisuki.github.io
+          repository: Twisuki/blog
           path: twisuki-io-repo
           token: ${{ secrets.GH_TOKEN }}
 
@@ -70,12 +70,12 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.GH_TOKEN }}
-          repository: Twisuki/Twisuki.github.io
+          repository: Twisuki/blog
           event-type: trigger-deploy
           script: |
             await github.rest.actions.createWorkflowDispatch({
               owner: 'Twisuki',
-              repo: 'Twisuki.github.io',
+              repo: 'blog',
               workflow_id: 'deploy-docs.yml',
               ref: 'main'
             })
