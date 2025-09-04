@@ -57,7 +57,7 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 	},
 	{
 		name: "Pinpe",
-		icon: "https://blog.linux-qitong.top/img/avatar.webp",
+		icon: "https://pinpe.top/head.jpg",
 		desc: "一个属于自己的云朵。",
 		link: "https://pinpe.top",
 	}
