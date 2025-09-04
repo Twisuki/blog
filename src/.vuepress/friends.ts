@@ -48,6 +48,18 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		icon: "/friends/BFladderbean.jpg",
 		desc: "OIer(AFOed)/Front-End/Back-End/Machine Learning. C++/Go/JS/TS/Python",
 		link: "https://github.com/BFladderbean"
+	},
+	{
+		name: "青稚",
+		icon: "https://blog.linux-qitong.top/img/avatar.webp",
+		desc: "青稚の空间 - 越努力，越幸运.",
+		link: "https://blog.linux-qitong.top",
+	},
+	{
+		name: "Pinpe",
+		icon: "https://blog.linux-qitong.top/img/avatar.webp",
+		desc: "一个属于自己的云朵。",
+		link: "https://pinpe.top",
 	}
 ]
 export default friends
