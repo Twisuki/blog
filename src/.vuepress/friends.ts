@@ -14,10 +14,10 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		link: "https://sfkm.me/"
 	},
 	{
-		name: "Asankilp 阿桑",
-		icon: "https://github.com/Asankilp.png",
-		desc: "MarshoAI的开发者",
-		link: "https://github.com/Asankilp"
+		name: "ErrOrO's Space",
+		icon: "https://blog.erroro.moe/assets/avatar.jpg",
+		desc: "OrO?OrO!",
+		link: "https://blog.erroro.moe"
 	},
 	{
 		name: "Dislink Sforza 断联",
