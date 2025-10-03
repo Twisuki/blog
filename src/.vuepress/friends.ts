@@ -60,6 +60,12 @@ const friends: ThemeBlogHomeProjectOptions[] = [
 		icon: "https://pinpe.top/head.jpg",
 		desc: "一个属于自己的云朵。",
 		link: "https://pinpe.top",
+	},
+	{
+		name: "SD7935",
+		icon: "https://q1.qlogo.cn/g?b=qq&s=640&nk=2691681405",
+		desc: "一个CTFer、红警牢玩家、死宅、蟒蛇使用者、hentai",
+		link: "https://www.sd7935.link/",
 	}
 ]
 export default friends
