@@ -66,6 +66,30 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%205%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.9%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+🔥 Editors: 
+PyCharm                  6 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+IntelliJ IDEA            2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+WebStorm                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Word                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+
+🐱‍💻 Projects: 
+DormCheck                5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+blog                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+GemAudit                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+DefandTherapeutics       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%205%20mins-blue)
 
