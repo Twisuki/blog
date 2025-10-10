@@ -9,73 +9,76 @@ jobs:
   update-waka:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Twisuki repo
+      - name: Checkout source repo (Twisuki/Twisuki)
         uses: actions/checkout@v4
         with:
           repository: Twisuki/Twisuki
-          path: twisuki-repo
+          path: source-repo
 
-      - name: Extract Waka section
+      - name: Extract Waka section from README.md
         id: extract-waka
         run: |
-          # 使用 perl 提取 Waka 部分，处理多行和特殊字符更可靠
-          WAKA_SECTION=$(perl -ne 'print if /<!--START_SECTION:waka-->/../<!--END_SECTION:waka-->/' twisuki-repo/README.md)
-          # 存储到临时文件
-          echo "$WAKA_SECTION" > waka_section.txt
-          # 使用 base64 编码避免特殊字符问题
+          # 硬编码路径：从 source-repo/README.md 提取 Waka 部分
+          WAKA_CONTENT=$(awk '/<!--START_SECTION:waka-->/ {flag=1; print; next} /<!--END_SECTION:waka-->/ {flag=0} flag' source-repo/README.md)
+          
+          if [ -z "$WAKA_CONTENT" ]; then
+            echo "::error::Waka section markers not found in README.md"
+            exit 1
+          fi
+          
+          echo "$WAKA_CONTENT" > waka_section.txt
           WAKA_BASE64=$(base64 -w 0 waka_section.txt)
-          echo "WAKA_BASE64=${WAKA_BASE64}" >> $GITHUB_ENV
+          echo "WAKA_BASE64=$WAKA_BASE64" >> $GITHUB_OUTPUT
 
-      - name: Checkout blog repo
+      - name: Checkout target repo (Twisuki/blog)
         uses: actions/checkout@v4
         with:
           repository: Twisuki/blog
-          path: twisuki-io-repo
+          path: target-repo
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Update intro.md
+      - name: Update target file (src/intro.md)
         run: |
-          # 解码 Waka 部分
-          echo "$WAKA_BASE64" | base64 --decode > waka_section_decoded.txt
+          # 硬编码路径：写入 target-repo/src/intro.md
+          echo "${{ steps.extract-waka.outputs.WAKA_BASE64 }}" | base64 -d > waka_section_decoded.txt
           
-          # 使用 awk 处理文件替换，避免 shell 解释特殊字符
+          # 使用 awk 替换硬编码标记之间的内容
           awk '
             BEGIN {
-              RS = "\0"  # 将记录分隔符设为空字符，处理多行
-              while ((getline line < "waka_section_decoded.txt") > 0)
-                waka = waka line ORS
+              new_content = ""
+              while ((getline line < "waka_section_decoded.txt") > 0) {
+                new_content = new_content line "\n"
+              }
               close("waka_section_decoded.txt")
             }
-            /<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/ {
-              if (/<!--START_SECTION:waka-->/) { print; in_section=1; next }
-              if (/<!--END_SECTION:waka-->/) { in_section=0; printf "%s", waka; next }
-              next
-            }
+            $0 == "<!--START_SECTION:waka-->" { in_section=1; print; print new_content; next }
+            $0 == "<!--END_SECTION:waka-->" { in_section=0; next }
             !in_section { print }
-          ' twisuki-io-repo/src/intro.md > tmp_intro.md
-          
-          mv tmp_intro.md twisuki-io-repo/src/intro.md
-          rm waka_section_decoded.txt
+          ' target-repo/src/intro.md > tmp_file && mv tmp_file target-repo/src/intro.md
 
       - name: Commit and push changes
+        id: commit
         run: |
-          cd twisuki-io-repo
+          cd target-repo
           git config user.name "Twisuki"
           git config user.email "100500860+Twisuki@users.noreply.github.com"
-          git add src/intro.md
-          git commit -m "chore: update waka stats [skip ci]"
-          git push
+          git add src/intro.md  # 硬编码文件路径
+          
+          if git diff --quiet --cached; then
+            echo "::notice::No changes to commit"
+            echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "chore: update waka stats [skip ci]"
+            git push
+            echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+          fi
 
-      - name: Trigger deploy workflow
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          repository: Twisuki/blog
-          event-type: trigger-deploy
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: 'Twisuki',
-              repo: 'blog',
-              workflow_id: 'deploy-docs.yml',
-              ref: 'main'
-            })
+      - name: Trigger deployment (deploy-docs.yml)
+        if: steps.commit.outputs.HAS_CHANGES == 'true'
+        run: |
+          # 硬编码触发目标仓库的 workflow 文件名
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Twisuki/blog/actions/workflows/deploy-docs.yml/dispatches \
+            -d '{"ref":"main"}'
