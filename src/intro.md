@@ -66,9 +66,10 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2040%20mins-blue)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-343.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,22 +77,20 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  16 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.92 % 
-Edge                     8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-IntelliJ IDEA            6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+PyCharm                  6 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+IntelliJ IDEA            2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+WebStorm                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Word                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🐱‍💻 Projects: 
-GemAudit                 19 hrs 52 mins      ███████████████░░░░░░░░░░   61.31 % 
-djLint                   6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-SeedcrackerX             3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-CogniCube                1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Twisuki                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+DormCheck                5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+blog                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+GemAudit                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+DefandTherapeutics       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 
-
-<!--END_SECTION:waka-->
 
 <img id="light-img" class="mid" src="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg" />
 
