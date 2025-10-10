@@ -2,8 +2,8 @@ name: Update Waka Stats and Deploy
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行
-  workflow_dispatch:     # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-waka:
@@ -15,10 +15,10 @@ jobs:
           repository: Twisuki/Twisuki
           path: source-repo
 
-      - name: Extract Waka section from README.md
+      - name: Extract Waka section
         id: extract-waka
         run: |
-          # 硬编码路径：从 source-repo/README.md 提取 Waka 部分
+          # 提取 Waka 部分（确保标记存在）
           WAKA_CONTENT=$(awk '/<!--START_SECTION:waka-->/ {flag=1; print; next} /<!--END_SECTION:waka-->/ {flag=0} flag' source-repo/README.md)
           
           if [ -z "$WAKA_CONTENT" ]; then
@@ -26,7 +26,9 @@ jobs:
             exit 1
           fi
           
-          echo "$WAKA_CONTENT" > waka_section.txt
+          # 仅保留标记之间的内容（去掉标记本身，后续在目标文件中重新插入）
+          WAKA_CONTENT_ONLY=$(sed -n '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/p' source-repo/README.md | sed '1d;$d')
+          echo "$WAKA_CONTENT_ONLY" > waka_section.txt
           WAKA_BASE64=$(base64 -w 0 waka_section.txt)
           echo "WAKA_BASE64=$WAKA_BASE64" >> $GITHUB_OUTPUT
 
@@ -39,10 +41,10 @@ jobs:
 
       - name: Update target file (src/intro.md)
         run: |
-          # 硬编码路径：写入 target-repo/src/intro.md
+          # 解码 Waka 内容
           echo "${{ steps.extract-waka.outputs.WAKA_BASE64 }}" | base64 -d > waka_section_decoded.txt
           
-          # 使用 awk 替换硬编码标记之间的内容
+          # 使用 awk 替换标记之间的内容（确保标记只出现一次）
           awk '
             BEGIN {
               new_content = ""
@@ -51,8 +53,17 @@ jobs:
               }
               close("waka_section_decoded.txt")
             }
-            $0 == "<!--START_SECTION:waka-->" { in_section=1; print; print new_content; next }
-            $0 == "<!--END_SECTION:waka-->" { in_section=0; next }
+            $0 == "<!--START_SECTION:waka-->" { 
+              print; 
+              print new_content; 
+              in_section=1; 
+              next 
+            }
+            $0 == "<!--END_SECTION:waka-->" { 
+              in_section=0; 
+              print; 
+              next 
+            }
             !in_section { print }
           ' target-repo/src/intro.md > tmp_file && mv tmp_file target-repo/src/intro.md
 
@@ -62,7 +73,7 @@ jobs:
           cd target-repo
           git config user.name "Twisuki"
           git config user.email "100500860+Twisuki@users.noreply.github.com"
-          git add src/intro.md  # 硬编码文件路径
+          git add src/intro.md
           
           if git diff --quiet --cached; then
             echo "::notice::No changes to commit"
@@ -76,7 +87,6 @@ jobs:
       - name: Trigger deployment (deploy-docs.yml)
         if: steps.commit.outputs.HAS_CHANGES == 'true'
         run: |
-          # 硬编码触发目标仓库的 workflow 文件名
           curl -X POST \
             -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
