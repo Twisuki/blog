@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  6 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.07 % 
-IntelliJ IDEA            2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-WebStorm                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Word                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+PyCharm                  3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+IntelliJ IDEA            2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+WebStorm                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Word                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🐱‍💻 Projects: 
-DormCheck                5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
-blog                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-GemAudit                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-DefandTherapeutics       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+DormCheck                3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+blog                     3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+DefandTherapeutics       1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+GemAudit                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Unknown Project          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 <!--END_SECTION:waka-->
