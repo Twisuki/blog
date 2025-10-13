@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  1 hr 41 mins        ███████████░░░░░░░░░░░░░░   44.86 % 
-VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Word                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-WebStorm                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+PyCharm                  45 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
+Word                     42 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
+WebStorm                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Neovim                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🐱‍💻 Projects: 
-DormCheck                1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-GemAudit                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Unknown Project          42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-backend                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-ChenXuBlog               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+DormCheck                45 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
+Unknown Project          42 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
+ChenXuBlog               29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+GemAudit                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+DefandTherapeutics       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 <!--END_SECTION:waka-->
