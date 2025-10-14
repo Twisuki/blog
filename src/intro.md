@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  45 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
-Word                     42 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
-WebStorm                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Neovim                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+WebStorm                 1 hr 36 mins        ████████████░░░░░░░░░░░░░   47.88 % 
+PyCharm                  45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Word                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🐱‍💻 Projects: 
-DormCheck                45 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
-Unknown Project          42 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
-ChenXuBlog               29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-GemAudit                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-DefandTherapeutics       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+GemInquire               1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   37.61 % 
+DormCheck                45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Unknown Project          42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+ChenXuBlog               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+nuxt-intro               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 <!--END_SECTION:waka-->
