@@ -175,7 +175,7 @@ export default hopeTheme(
 
 			docsearch: {
 				appId: "GXV92NZXHL",
-				apiKey: "38c1152c28dfcb04d64d5f3cfbfc1808",
+				apiKey: "ccd24161c4978b99dc6d6eb1184c9131",
 				indexName: "twis",
 			},
 
