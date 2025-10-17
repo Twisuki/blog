@@ -66,6 +66,8 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2056%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -74,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 12 hrs 19 mins      ██████████████████████░░░   86.53 % 
-Neovim                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-IntelliJ IDEA            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+WebStorm                 12 hrs 15 mins      ██████████████████████░░░   86.46 % 
+Neovim                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+IntelliJ IDEA            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🐱‍💻 Projects: 
-front                    5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-mc-trans-map             4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-GemInquire               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Unknown Project          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-blog                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+front                    5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
+mc-trans-map             4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+GemInquire               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Unknown Project          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+blog                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 
 <!--END_SECTION:waka-->
