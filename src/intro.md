@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 12 hrs 15 mins      ██████████████████████░░░   86.46 % 
-Neovim                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-IntelliJ IDEA            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+WebStorm                 9 hrs 43 mins       █████████████████████░░░░   84.30 % 
+Neovim                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+PowerPoint               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🐱‍💻 Projects: 
-front                    5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
-mc-trans-map             4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-GemInquire               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Unknown Project          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-blog                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+front                    5 hrs 52 mins       █████████████░░░░░░░░░░░░   50.95 % 
+GemInquire               2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+mc-trans-map             1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Unknown Project          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+blog                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 <!--END_SECTION:waka-->
