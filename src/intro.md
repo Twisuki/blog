@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2025%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-512.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 43 mins       █████████████████████░░░░   84.30 % 
-Neovim                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-PowerPoint               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+WebStorm                 10 hrs 50 mins      ████████████████████░░░░░   80.52 % 
+VS Code                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Neovim                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+PowerPoint               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-front                    5 hrs 52 mins       █████████████░░░░░░░░░░░░   50.95 % 
-GemInquire               2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-mc-trans-map             1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Unknown Project          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-blog                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+front                    7 hrs 25 mins       ██████████████░░░░░░░░░░░   55.16 % 
+GemInquire               2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Unknown Project          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+mc-trans-map             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+nuxt-intro               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 <!--END_SECTION:waka-->
