@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 39 mins       ███████████████░░░░░░░░░░   58.02 % 
-VS Code                  1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-IntelliJ IDEA            31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-PowerPoint               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+WebStorm                 6 hrs 14 mins       ██████████████████░░░░░░░   71.94 % 
+VS Code                  1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+IntelliJ IDEA            31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Neovim                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+PowerPoint               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-front                    3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
-google-taskify           1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-mc-trans-map             48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-blog                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+front                    3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
+GemInquire               2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+google-taskify           1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+blog                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+nuxt-intro               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 <!--END_SECTION:waka-->
