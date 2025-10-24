@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 40 mins       ████████████████████░░░░░   78.35 % 
-VS Code                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-IntelliJ IDEA            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+WebStorm                 8 hrs 27 mins       ███████████████████░░░░░░   77.94 % 
+VS Code                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+IntelliJ IDEA            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 PowerPoint               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-front                    4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
-GemInquire               4 hrs               █████████░░░░░░░░░░░░░░░░   36.22 % 
-google-taskify           1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-blog                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-nuxt-intro               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+front                    4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+GemInquire               3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
+google-taskify           1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+blog                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+nuxt-intro               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 <!--END_SECTION:waka-->
