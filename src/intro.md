@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,17 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 27 mins       ███████████████████░░░░░░   77.94 % 
-VS Code                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-IntelliJ IDEA            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-PowerPoint               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+WebStorm                 8 hrs 27 mins       ████████████████████░░░░░   81.65 % 
+VS Code                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+PowerPoint               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-front                    4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
-GemInquire               3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-google-taskify           1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-blog                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-nuxt-intro               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+front                    4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
+GemInquire               3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
+google-taskify           1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+nuxt-intro               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+back_2024                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 <!--END_SECTION:waka-->
