@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,17 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 7 hrs 50 mins       █████████████████████░░░░   83.60 % 
-VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+WebStorm                 11 hrs 22 mins      ████████████████████████░   95.01 % 
+Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Word                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-GemInquire               5 hrs 19 mins       ██████████████░░░░░░░░░░░   56.73 % 
-front                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-google-taskify           49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-blog                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+GemInquire               6 hrs 43 mins       ██████████████░░░░░░░░░░░   56.25 % 
+front                    4 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+nuxtui-test              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+ChenXuBlog               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 <!--END_SECTION:waka-->
