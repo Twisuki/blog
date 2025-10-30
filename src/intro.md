@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-524.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 11 mins       ███████████████████████░░   90.64 % 
-Neovim                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Word                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+WebStorm                 7 hrs 30 mins       ██████████████████████░░░   88.44 % 
+Neovim                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+IntelliJ IDEA            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Word                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🐱‍💻 Projects: 
-GemInquire               5 hrs 29 mins       ██████████████░░░░░░░░░░░   54.09 % 
-front                    3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.45 % 
-Unknown Project          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-blog                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-back_2024                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+GemInquire               2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+HMOIndex                 2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+front                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Unknown Project          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+blog                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 <!--END_SECTION:waka-->
