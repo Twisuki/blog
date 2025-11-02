@@ -29,7 +29,7 @@ titles:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26ec469996d0b8e5bcbccb70cd01c097f8401f9a388828c598b3b40841bf19a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e6465722d5472616e732d61717561"><img src="https://camo.githubusercontent.com/26ec469996d0b8e5bcbccb70cd01c097f8401f9a388828c598b3b40841bf19a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e6465722d5472616e732d61717561" alt="Gender" data-canonical-src="https://img.shields.io/badge/Agender-Trans-aqua" style="max-width: 100%;"></a>
 </div>
 
-- 这里是是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~ 
+- 这里是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~ 
 I'm Twisuki, Su Yang in Chinese.
 - 来自辽宁的一只猫~ 
 A cat/neko from Liaoning Province, China.
