@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533.2%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 19 hrs 29 mins      ████████████████████░░░░░   81.90 % 
-VS Code                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-IntelliJ IDEA            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Word                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Neovim                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+WebStorm                 14 hrs 3 mins       █████████████████░░░░░░░░   66.05 % 
+PowerPoint               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Excel                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Word                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🐱‍💻 Projects: 
-HMOIndex                 19 hrs 19 mins      ████████████████████░░░░░   81.22 % 
-Unknown Project          1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-py-todo                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-blog                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+HMOIndex                 13 hrs 53 mins      ████████████████░░░░░░░░░   65.29 % 
+Unknown Project          4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+py-todo                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+blog                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 <!--END_SECTION:waka-->
