@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 14 hrs 3 mins       █████████████████░░░░░░░░   66.05 % 
-PowerPoint               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Excel                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Word                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+WebStorm                 10 hrs 43 mins      ███████████████░░░░░░░░░░   60.36 % 
+PowerPoint               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Excel                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Word                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🐱‍💻 Projects: 
-HMOIndex                 13 hrs 53 mins      ████████████████░░░░░░░░░   65.29 % 
-Unknown Project          4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-py-todo                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-blog                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+HMOIndex                 10 hrs 33 mins      ███████████████░░░░░░░░░░   59.46 % 
+Unknown Project          4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+py-todo                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+blog                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 <!--END_SECTION:waka-->
