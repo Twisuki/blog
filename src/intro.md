@@ -66,6 +66,8 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2024%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -74,17 +76,17 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-Word                     2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-PowerPoint               2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Excel                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-PyCharm                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+WebStorm                 2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+Word                     1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.45 % 
+Excel                    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+PyCharm                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+PowerPoint               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 31 mins       ███████████████░░░░░░░░░░   59.84 % 
-HMOIndex                 3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-mms_backend              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-DormCheck                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Unknown Project          2 hrs 55 mins       █████████████░░░░░░░░░░░░   51.38 % 
+HMOIndex                 2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+mms_backend              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+DormCheck                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 <!--END_SECTION:waka-->
