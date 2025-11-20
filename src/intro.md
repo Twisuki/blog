@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-546.5%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  7 hrs 38 mins       ███████████████░░░░░░░░░░   60.79 % 
-Excel                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-WebStorm                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Word                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+PyCharm                  7 hrs 54 mins       ████████████████░░░░░░░░░   63.96 % 
+Excel                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+WebStorm                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Word                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  6 hrs 28 mins       █████████████░░░░░░░░░░░░   51.51 % 
-Unknown Project          2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-HMOIndex                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-mms_backend              57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-DormCheck                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+hmo_mms                  7 hrs 33 mins       ███████████████░░░░░░░░░░   61.04 % 
+Unknown Project          2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+HMOIndex                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+mms_backend              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+DormCheck                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 <!--END_SECTION:waka-->
