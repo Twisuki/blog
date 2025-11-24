@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  8 hrs 43 mins       ███████████████░░░░░░░░░░   60.90 % 
-WebStorm                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Excel                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Word                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+PyCharm                  9 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.02 % 
+WebStorm                 7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.41 % 
+Excel                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Word                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  10 hrs 25 mins      ██████████████████░░░░░░░   72.74 % 
-Unknown Project          2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-HMOIndex                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-DormCheck                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-GemInquire               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+hmo_mms                  15 hrs 51 mins      ████████████████████░░░░░   79.79 % 
+Unknown Project          2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+HMOIndex                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+DormCheck                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+GemInquire               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 <!--END_SECTION:waka-->
