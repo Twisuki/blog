@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 14 mins      █████████████░░░░░░░░░░░░   52.55 % 
-PyCharm                  6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-Excel                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Word                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+WebStorm                 11 hrs 9 mins       ███████████████░░░░░░░░░░   61.21 % 
+PyCharm                  3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Word                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Excel                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  16 hrs 11 mins      ███████████████████░░░░░░   75.66 % 
-Unknown Project          2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-front                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-HMOIndex                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-DormCheck                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+hmo_mms                  12 hrs 28 mins      █████████████████░░░░░░░░   68.42 % 
+Unknown Project          2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+GemAudit                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+front                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+HMOIndex                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 <!--END_SECTION:waka-->
