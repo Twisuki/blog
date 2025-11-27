@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548.7%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 9 mins       ███████████████░░░░░░░░░░   61.21 % 
-PyCharm                  3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Word                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Excel                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+WebStorm                 11 hrs 17 mins      ████████████████░░░░░░░░░   65.48 % 
+PyCharm                  2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Word                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Excel                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  12 hrs 28 mins      █████████████████░░░░░░░░   68.42 % 
-Unknown Project          2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-GemAudit                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-front                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-HMOIndex                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+hmo_mms                  11 hrs 24 mins      █████████████████░░░░░░░░   66.09 % 
+Unknown Project          2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+GemAudit                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+front                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+HMOIndex                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 <!--END_SECTION:waka-->
