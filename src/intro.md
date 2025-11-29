@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2012%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 11 mins       ███████████████░░░░░░░░░░   59.23 % 
-PyCharm                  2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Word                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Excel                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+WebStorm                 6 hrs 24 mins       █████████████░░░░░░░░░░░░   52.94 % 
+PyCharm                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Word                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Excel                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  10 hrs 15 mins      █████████████████░░░░░░░░   66.05 % 
-Unknown Project          2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-GemAudit                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-front                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-blog                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+hmo_mms                  8 hrs 35 mins       ██████████████████░░░░░░░   70.89 % 
+Unknown Project          1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+GemAudit                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+front                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+hmomms_frontend          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 <!--END_SECTION:waka-->
