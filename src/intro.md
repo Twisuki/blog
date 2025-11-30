@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2012%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-549.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 6 hrs 24 mins       █████████████░░░░░░░░░░░░   52.94 % 
-PyCharm                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Word                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Excel                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+WebStorm                 5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+PyCharm                  2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Word                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Excel                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  8 hrs 35 mins       ██████████████████░░░░░░░   70.89 % 
-Unknown Project          1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-GemAudit                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-front                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-hmomms_frontend          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+hmo_mms                  8 hrs 3 mins        █████████████████░░░░░░░░   68.42 % 
+Unknown Project          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+GemAudit                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+front                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+hmomms_frontend          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 <!--END_SECTION:waka-->
