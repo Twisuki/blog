@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.2%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-PyCharm                  3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-VS Code                  2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+WebStorm                 6 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.54 % 
+PyCharm                  3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+VS Code                  2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  7 hrs 57 mins       ██████████████████░░░░░░░   72.79 % 
-GemAudit                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-backend                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+hmo_mms                  7 hrs 56 mins       ███████████████░░░░░░░░░░   61.44 % 
+yqwork_front_2025        1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+GemAudit                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+backend                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 <!--END_SECTION:waka-->
