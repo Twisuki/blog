@@ -76,17 +76,16 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 2 hrs 18 mins       █████████████░░░░░░░░░░░░   51.95 % 
-VS Code                  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.21 % 
-PyCharm                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-PowerPoint               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VS Code                  1 hr 5 mins         ███████████████░░░░░░░░░░   60.46 % 
+WebStorm                 37 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
+PowerPoint               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🐱‍💻 Projects: 
-yqwork_front_2025        1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.83 % 
-hmo_mms                  1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
-frontend                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-yqwork-node-2023         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-hmomms_frontend          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+hmo_mms                  40 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
+frontend                 24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+yqwork-node-2023         10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+hmomms_frontend          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+yqwork-2023              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 <!--END_SECTION:waka-->
