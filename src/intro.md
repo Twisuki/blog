@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.3%20thousand%20lines%20of%20code-blue)
 
@@ -76,16 +76,16 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         ███████████████░░░░░░░░░░   60.46 % 
-WebStorm                 37 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
-PowerPoint               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+VS Code                  1 hr 18 mins        █████████████████░░░░░░░░   66.61 % 
+WebStorm                 34 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+PowerPoint               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  40 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
-frontend                 24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-yqwork-node-2023         10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-hmomms_frontend          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-yqwork-2023              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+hmo_mms                  52 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
+frontend                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+yqwork-node-2023         10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+hmomms_frontend          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+yqwork-2023              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 <!--END_SECTION:waka-->
