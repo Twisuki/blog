@@ -76,16 +76,13 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        ██████████████████░░░░░░░   71.41 % 
-WebStorm                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-PowerPoint               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+VS Code                  34 mins             ██████████████████████░░░   87.28 % 
+PowerPoint               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  46 mins             ████████████░░░░░░░░░░░░░   46.26 % 
-frontend                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-yqwork-node-2023         10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-yqwork-2023              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+hmo_mms                  18 mins             ████████████░░░░░░░░░░░░░   47.40 % 
+frontend                 15 mins             ██████████░░░░░░░░░░░░░░░   39.89 % 
+Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
 
 <!--END_SECTION:waka-->
