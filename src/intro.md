@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.4%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 6 hrs 4 mins        ██████████████████░░░░░░░   73.29 % 
-Word                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-RustRover                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-PyCharm                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+WebStorm                 6 hrs 4 mins        ███████████████████░░░░░░   75.41 % 
+Word                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+RustRover                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+PyCharm                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+PowerPoint               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-front                    5 hrs 27 mins       █████████████████░░░░░░░░   66.03 % 
-Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-hmo_mms                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-back_2024                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-hmomms_frontend          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+front                    5 hrs 27 mins       █████████████████░░░░░░░░   67.94 % 
+Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+back_2024                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+hmo_mms                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+hmomms_frontend          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 <!--END_SECTION:waka-->
