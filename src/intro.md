@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs 37 mins       █████████████░░░░░░░░░░░░   51.59 % 
-Word                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-PyCharm                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-PowerPoint               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-RustRover                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+WebStorm                 3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
+PyCharm                  1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Word                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+PowerPoint               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+RustRover                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🐱‍💻 Projects: 
-front                    3 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.93 % 
-Unknown Project          1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-project                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-back_2024                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-hmo_mms                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+front                    3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
+Unknown Project          2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+project                  1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+back_2024                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+人工智能初级实践                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 <!--END_SECTION:waka-->
