@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
-PyCharm                  1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Word                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-PowerPoint               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-RustRover                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+PyCharm                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+WebStorm                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+PowerPoint               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Excel                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Word                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 🐱‍💻 Projects: 
-front                    3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-Unknown Project          2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-project                  1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-back_2024                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-人工智能初级实践                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Unknown Project          1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
+project                  1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+front                    1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+back_2024                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+人工智能初级实践                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 
 <!--END_SECTION:waka-->
