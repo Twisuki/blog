@@ -66,7 +66,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.1%20thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,16 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 1 hr 28 mins        ████████████░░░░░░░░░░░░░   47.88 % 
-Excel                    55 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
-PowerPoint               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-RustRover                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-PyCharm                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+WebStorm                 1 hr 18 mins        █████████████░░░░░░░░░░░░   53.88 % 
+Excel                    55 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+PyCharm                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
-hmo_mms                  1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.28 % 
-front                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-mizuki                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-back_2024                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+hmo_mms                  1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.09 % 
+Unknown Project          55 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+front                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+mizuki                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+project                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 
 <!--END_SECTION:waka-->
