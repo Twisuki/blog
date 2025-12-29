@@ -76,16 +76,16 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 1 hr 18 mins        █████████████░░░░░░░░░░░░   53.88 % 
-Excel                    55 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
-PyCharm                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+WebStorm                 1 hr 20 mins        ██████████████░░░░░░░░░░░   54.38 % 
+Excel                    55 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
+PyCharm                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.09 % 
-Unknown Project          55 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
-front                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-mizuki                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-project                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+hmo_mms                  1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.64 % 
+Unknown Project          55 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
+front                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+mizuki                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+project                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 <!--END_SECTION:waka-->
