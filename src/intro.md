@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.14%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,17 +76,15 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 47 mins             ██████████████░░░░░░░░░░░   55.42 % 
-Excel                    32 mins             ██████████░░░░░░░░░░░░░░░   38.41 % 
-Word                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+WebStorm                 47 mins             ██████████████░░░░░░░░░░░   55.90 % 
+Excel                    32 mins             ██████████░░░░░░░░░░░░░░░   38.74 % 
+Word                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          37 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
-front                    28 mins             ████████░░░░░░░░░░░░░░░░░   32.67 % 
-mizuki                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-HMOIndex                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-back_2024                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Unknown Project          37 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
+front                    28 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
+mizuki                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+HMOIndex                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 
 <!--END_SECTION:waka-->
