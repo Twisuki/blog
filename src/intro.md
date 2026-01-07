@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.05%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 9 mins        ██████████████████░░░░░░░   72.97 % 
-Word                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-WebStorm                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Excel                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+IntelliJ IDEA            9 hrs 9 mins        ███████████████████░░░░░░   75.68 % 
+Word                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+WebStorm                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Excel                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-preezid                  8 hrs 8 mins        ████████████████░░░░░░░░░   64.91 % 
-Unknown Project          2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-YuhanWebsite             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-blog                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-front                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+preezid                  8 hrs 8 mins        █████████████████░░░░░░░░   67.33 % 
+Unknown Project          2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+YuhanWebsite             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+blog                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+hmo_mms                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 <!--END_SECTION:waka-->
