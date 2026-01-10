@@ -68,7 +68,7 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.09%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.47%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 5 mins        ███████████████████░░░░░░   75.58 % 
-Word                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-WebStorm                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Excel                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+IntelliJ IDEA            3 hrs 18 mins       █████████████░░░░░░░░░░░░   50.82 % 
+Word                     1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+WebStorm                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Excel                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🐱‍💻 Projects: 
-preezid                  8 hrs 10 mins       █████████████████░░░░░░░░   67.85 % 
-Unknown Project          1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-YuhanWebsite             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-blog                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-hmo_mms                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+preezid                  2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
+Unknown Project          1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+YuhanWebsite             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+blog                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+HMOIndex                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 <!--END_SECTION:waka-->
