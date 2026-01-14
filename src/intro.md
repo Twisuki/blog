@@ -10,60 +10,60 @@ name: Twisuki
 titles:
     - Hi, this is Twisuki~
     - Welcome to my page meow~
-
 ---
 
-# 介绍 intro
+## 个人简介 Profile
 
-### 个人简介 Profile
+[![Steam](https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199387291268/)  [![Minecraft](https://img.shields.io/badge/Minecraft-Nya__Twisuki-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Nya_Twisuki)  [![Bilibili](https://img.shields.io/badge/Nya__Twisuki-pink.svg?logo=Bilibili)](https://space.bilibili.com/317707977)  ![Name](https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue)  ![University](https://img.shields.io/badge/AI-HNU-red)  ![Gender](https://img.shields.io/badge/Agender-Trans-aqua)
 
-<div class="mid">
-  <a href="https://steamcommunity.com/profiles/76561199387291268/" rel="nofollow"><img src="https://camo.githubusercontent.com/81cd2a593dc6862360b971ec27d9e12816886231ce13fa5606738cb1c2424578/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53755f5f59616e675f5f3233332d626c61636b2e7376673f6c6f676f3d537465616d" alt="Steam" data-canonical-src="https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam" style="max-width: 100%;"></a>
-  <a href="https://namemc.com/profile/Nya_Twisuki" rel="nofollow"><img src="https://camo.githubusercontent.com/7dd1d5350abec76cc232304c63a4a6d13cbf588e0775b5d6f845b25185a17815/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d696e6563726166742d4e79615f5f54776973756b692d677265656e2e7376673f6c6162656c436f6c6f723d677265656e26636f6c6f723d79656c6c6f77677265656e" alt="Minecraft" data-canonical-src="https://img.shields.io/badge/Minecraft-Nya__Twisuki-green.svg?labelColor=green&amp;color=yellowgreen" style="max-width: 100%;"></a>
-  <a href="https://space.bilibili.com/317707977" rel="nofollow"><img src="https://camo.githubusercontent.com/eb62ea8d2953b766e3a07a51c5f2db614cd367f5448bbc6764328b69cb3ee954/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e79615f5f54776973756b692d70696e6b2e7376673f6c6f676f3d42696c6962696c69" alt="Bilibili" data-canonical-src="https://img.shields.io/badge/Nya__Twisuki-pink.svg?logo=Bilibili" style="max-width: 100%;"></a>
-</div>
+- 我是 Twisuki, 中文名苏阳,来自辽宁.
+    - I'm Twisuki, Su_Yang in Chinese, from Liaoning Province, China.
+- 现就读于湖南大学, 学习人工智能.
+    - Learning AI in HNU now.
 
-<div class="mid">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/083936773a71166c0e9f7bf362507e1f420cbe9522e91dd3e603d6830cd970f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e79615f5f54776973756b692d537559616e673233332d626c7565"><img src="https://camo.githubusercontent.com/083936773a71166c0e9f7bf362507e1f420cbe9522e91dd3e603d6830cd970f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e79615f5f54776973756b692d537559616e673233332d626c7565" alt="Name" data-canonical-src="https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/185f6727f357076dab512590092b7cb5349b55e3dfc653fd431cfa2eeaadc096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492d484e552d726564"><img src="https://camo.githubusercontent.com/185f6727f357076dab512590092b7cb5349b55e3dfc653fd431cfa2eeaadc096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492d484e552d726564" alt="University" data-canonical-src="https://img.shields.io/badge/AI-HNU-red" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26ec469996d0b8e5bcbccb70cd01c097f8401f9a388828c598b3b40841bf19a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e6465722d5472616e732d61717561"><img src="https://camo.githubusercontent.com/26ec469996d0b8e5bcbccb70cd01c097f8401f9a388828c598b3b40841bf19a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e6465722d5472616e732d61717561" alt="Gender" data-canonical-src="https://img.shields.io/badge/Agender-Trans-aqua" style="max-width: 100%;"></a>
-</div>
+## 开发概况 Development
 
-- 这里是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~ 
-I'm Twisuki, Su Yang in Chinese.
-- 来自辽宁的一只猫~ 
-A cat/neko from Liaoning Province, China.
-- 现就读于湖南大学, 学习人工智能
-Learning AI in HNU.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=Nuxt&logoColor=white)  ![Next](https://img.shields.io/badge/-Next-000000?logo=Next.js&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)
 
-### 自设/属性 Likes & Attributes
+- 精通 Vue, React 和 web vanilla 前端.
+    - Proficient in Vue, React, and vanilla web frontend.
+- 正在学习后端, 主要是 Python 和 Rust.
+    - Learning backend now, mainly Python and Rust.
+- 目前在湖南大学某学生组织工作, 运维一个 React / Taro 小程序.
+    - Currently working in a student organization at Hunan University, maintaining a React/Taro mini program.
 
-- 是一只什么都会一点又什么都不精的猫猫哒 
-There is a cat that knows everything, but a little bit.
-- 喜欢二次元, MBTI是ISFP 
-Loves ACG and MBTI is ISFP.
-- 喜欢毛茸茸的东西, 喜欢到处贴贴~ 
-I love fluffy things and enjoy cuddling with everything around~
-- 有一对可以收起来, 随着情绪变化的小猫耳 
-Has a pair of cat ears that can be tucked away and change according to emotions.
-- 性取向为泛性恋, 性别存疑(?), 目前认为无性(现已翻车) 
-Sexual orientation is Pansexual, gender is uncertain(?), currently considered Agender(now identifies as trans(mtf)).
+<VPCard
+  title="HMOIndex"
+  desc="湖南大学 HMO - Minectaft 岳麓幻境社官网"
+  logo="https://raw.githubusercontent.com/Twisuki/HMOIndex/refs/heads/master/public/favicon.ico"
+  link="https://github.com/Twisuki/HMOIndex"
+/>
+<VPCard
+  title="blog"
+  desc="苏阳的 blog(本页面仓库)"
+  logo="https://github.com/Twisuki.png"
+  link="https://github.com/Twisuki/blog"
+/>
+<VPCard
+  title="homepage"
+  desc="基于 nuxt 的个人主页导航页"
+  logo="https://github.com/Twisuki.png"
+  link="https://github.com/Twisuki/homepage"
+/>
+<VPCard
+  title="hmo_mms"
+  desc="岳麓幻境社成员管理系统"
+  logo="https://raw.githubusercontent.com/Twisuki/HMOIndex/refs/heads/master/public/favicon.ico"
+  link="https://github.com/HMODeveloper/hmo_mms"
+/>
+<VPCard
+  title="Application"
+  desc="湖南大学机器人学院学生手册"
+  logo="https://raw.githubusercontent.com/TZLakeStudio/Application/refs/heads/react/client/static/img/logo.png"
+  link="https://github.com/TZLakeStudio/Application"
+/>
 
-### 开发概况 Development
-
-- 正在学习Python和web前端, 大部分贡献都是静态网页
-I am learning Python and web frontend, and most of the contribution are for static web pages.
-- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责部分前端开发.
-Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for parts of frontend.
-- 同时也是[GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)的一位编辑, 负责[T版绿萌教程](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F)的编写工作.
-I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC), in charge of compiling the [T-Ver. SlimeTech](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F).
-- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长.
-Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robotics, HNU.
-
-<div class="mid">
-  <a href="https://github.com/LiteyukiStudio"><img src="https://camo.githubusercontent.com/5e7d34cafe0a84defaeb23584a99c9568d19fb16f9e4eb8ced656b34a79f41cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54776973756b692d4c69746579756b692d6c69676874626c7565" alt="Liteyuki" data-canonical-src="https://img.shields.io/badge/Twisuki-Liteyuki-lightblue" style="max-width: 100%;"></a>
-  <a href="https://github.com/tanhHeng/GraduateTextsInTechnicalMC"><img src="https://camo.githubusercontent.com/9a51105dc29d449c0d6f7a4de5e374b67b1b0decc278754d104f3cbcf0f0189b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545382538422538462545392539382542332d47544d432d677265656e" alt="GTMC" data-canonical-src="https://img.shields.io/badge/%E8%8B%8F%E9%98%B3-GTMC-green" style="max-width: 100%;"></a>
-</div>
+## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2051%20mins-blue?style=flat)
@@ -92,47 +92,16 @@ front                    14 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img id="light-img" class="mid" src="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg" />
+![GitHub Snake](https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg)
 
-### 我的仓库 Repository
+## 联系方式 Contact me
 
-<div class="mid">
-  <VPCard
-    title="Twisuki.github.io"
-    desc="自我介绍"
-    logo="https://github.com/Twisuki.png"
-    link="https://github.com/Twisuki/Twisuki.github.io"
-  />
+- E-mail: [suyang233@hotmail.com](suyang233@hotmail.com)
+- BiliBili: [Nya_Twisuki](https://space.bilibili.com/317707977)
+- Twitter : [Su_Yang_233](https://x.com/suyang_233)
 
-  <VPCard
-    title="Application"
-    desc="机器人学院学生手册 | 一站式的学生信息获取站点"
-    logo="https://github.com/TZLakeStudio.png"
-    link="https://github.com/TZLakeStudio/Application"
-  />
+以及我会活跃的地方:
 
-  <VPCard
-    title="djLint"
-    desc="✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang"
-    logo="https://github.com/djlint.png"
-    link="https://github.com/djlint/djLint"
-  />
-
-  <VPCard
-    title="GraduateTextsInTechnicalMC"
-    desc="TechMC入门&进阶文档"
-    logo="https://github.com/tanhHeng.png"
-    link="https://github.com/Twisuki/GraduateTextsInTechnicalMC"
-  />
-
-  <VPCard
-    title="Dress"
-    desc="好耶 是女装 | 备份·接受PR"
-    logo="https://github.com/Cute-Dress.png"
-    link="https://github.com/Twisuki/Dress"
-  />
-</div>
-
-### 访问总数 Visitors
-
-![](https://profile-counter.glitch.me/twisuki/count.svg)
+- Minecraft : [Nya_Twisuki](https://namemc.com/profile/Nya_Twisuki)
+- Discord : Twisuki
+- KOOK : Nya_Twisuki (#5313)
