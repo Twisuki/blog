@@ -66,9 +66,9 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.60%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robo
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 39 mins       █████████████████░░░░░░░░   68.77 % 
-PyCharm                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-WebStorm                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+IntelliJ IDEA            5 hrs 56 mins       ██████████████████░░░░░░░   71.22 % 
+PyCharm                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+WebStorm                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🐱‍💻 Projects: 
-preezid                  5 hrs 39 mins       █████████████████░░░░░░░░   68.77 % 
-hmo_mms                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-front                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-HMOIndex                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+preezid                  5 hrs 56 mins       ██████████████████░░░░░░░   71.22 % 
+hmo_mms                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+HMOIndex                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+front                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 <!--END_SECTION:waka-->
