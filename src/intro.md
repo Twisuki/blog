@@ -7,6 +7,7 @@ sidebar: false
 avatar: avatar.png
 welcome: 你好, 这里是
 name: Twisuki
+title: 介绍 intro
 titles:
     - Hi, this is Twisuki~
     - Welcome to my page meow~
