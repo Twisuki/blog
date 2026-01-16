@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-520.63%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-520.64%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 40 mins       █████████████████░░░░░░░░   67.37 % 
-PyCharm                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-WebStorm                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+IntelliJ IDEA            5 hrs 40 mins       █████████████████░░░░░░░░   66.85 % 
+PyCharm                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+WebStorm                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-preezid                  3 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.81 % 
-hmo_mms                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-blog                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Twisuki                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+preezid                  3 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+hmo_mms                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+blog                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Twisuki                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 <!--END_SECTION:waka-->
