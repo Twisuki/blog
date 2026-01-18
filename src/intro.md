@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.75%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
-WebStorm                 3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-PowerPoint               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-PyCharm                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+WebStorm                 9 hrs 4 mins        █████████████░░░░░░░░░░░░   53.07 % 
+IntelliJ IDEA            3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+PowerPoint               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+PyCharm                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-preezid                  3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Unknown Project          3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-homepage                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-hmo_mms                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-blog                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+homepage                 8 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.55 % 
+Unknown Project          3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+hmo_mms                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+preezid                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 
 <!--END_SECTION:waka-->
