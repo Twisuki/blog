@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 4 mins        █████████████░░░░░░░░░░░░   53.07 % 
-IntelliJ IDEA            3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-PowerPoint               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-PyCharm                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+WebStorm                 10 hrs 16 mins      ████████████████░░░░░░░░░   62.06 % 
+IntelliJ IDEA            2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+PowerPoint               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-homepage                 8 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-Unknown Project          3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-hmo_mms                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-preezid                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+homepage                 9 hrs 30 mins       ██████████████░░░░░░░░░░░   57.39 % 
+Unknown Project          2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+preezid                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Twisuki                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 <!--END_SECTION:waka-->
