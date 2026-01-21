@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 10 hrs 16 mins      ████████████████░░░░░░░░░   65.63 % 
-PowerPoint               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-IntelliJ IDEA            2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+WebStorm                 10 hrs 2 mins       █████████████████░░░░░░░░   66.52 % 
+PowerPoint               2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+IntelliJ IDEA            1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-homepage                 9 hrs 30 mins       ███████████████░░░░░░░░░░   60.69 % 
-Unknown Project          2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Twisuki                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-front                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+homepage                 9 hrs 30 mins       ████████████████░░░░░░░░░   62.91 % 
+Unknown Project          2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Twisuki                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+front                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 <!--END_SECTION:waka-->
