@@ -2,9 +2,12 @@
 name: 部署文档
 
 on:
+  schedule:
+    - cron: '0 3 * * *'
   push:
     branches:
       - hope
+  workflow_dispatch:
 
 permissions:
   contents: write
