@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.89%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 10 hrs 2 mins       █████████████████░░░░░░░░   66.52 % 
-PowerPoint               2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-IntelliJ IDEA            1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+WebStorm                 13 hrs 8 mins       ████████████████████░░░░░   81.46 % 
+PowerPoint               2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-homepage                 9 hrs 30 mins       ████████████████░░░░░░░░░   62.91 % 
-Unknown Project          2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Twisuki                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-front                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+homepage                 12 hrs 24 mins      ███████████████████░░░░░░   76.99 % 
+Unknown Project          2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+front                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+HMOIndex                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+blog                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 <!--END_SECTION:waka-->
