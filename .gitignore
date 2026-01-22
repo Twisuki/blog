@@ -1,0 +1,9 @@
+.idea
+.vscode
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+src/kits/src/.vuepress/.cache/
+src/kits/src/.vuepress/.temp/
+src/kits/src/.vuepress/dist/
