@@ -1,8 +1,11 @@
-name: Update Waka Stats and Deploy
+name: 更新 Waka 数据并重新部署
 
 on:
+  push:
+    branches:
+      - hope
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
