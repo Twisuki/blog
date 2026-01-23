@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.90%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 13 hrs 8 mins       ████████████████████░░░░░   81.46 % 
-PowerPoint               2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+WebStorm                 13 hrs 2 mins       ████████████████████░░░░░   80.32 % 
+PowerPoint               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Neovim                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-homepage                 12 hrs 24 mins      ███████████████████░░░░░░   76.99 % 
-Unknown Project          2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-front                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-HMOIndex                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-blog                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+homepage                 12 hrs 18 mins      ███████████████████░░░░░░   75.88 % 
+Unknown Project          2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+front                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HMOIndex                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+blog                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 <!--END_SECTION:waka-->
