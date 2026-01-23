@@ -1,15 +1,12 @@
 name: 生成 Snake SVG
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 1 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
 
 jobs:
-  generate:
+  snk:
     permissions:
       contents: write
     runs-on: ubuntu-latest

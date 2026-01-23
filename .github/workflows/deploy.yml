@@ -2,15 +2,15 @@
 name: 部署文档
 
 on:
-  push:
-    branches: [ hope ]
+  repository_dispatch:
+    types: [deploy]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  deploy-gh-pages:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

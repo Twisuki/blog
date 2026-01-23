@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-waka:
+  waka:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source repo (Twisuki/Twisuki)
@@ -87,10 +87,7 @@ jobs:
             echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Trigger deployment (deploy-docs.yml)
-        run: |
-          curl -X POST \
-            -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/Twisuki/blog/actions/workflows/deploy-docs.yml/dispatches \
-            -d '{"ref":"hope"}'
+      - name: Repository Dispatch to deploy
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          event-type: deploy
