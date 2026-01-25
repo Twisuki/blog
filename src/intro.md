@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.51%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.52%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 56 mins       ████████████████████████░   95.28 % 
-Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-PowerPoint               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+WebStorm                 9 hrs 22 mins       ████████████████████████░   94.41 % 
+Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+IntelliJ IDEA            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+PowerPoint               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-homepage                 8 hrs 46 mins       ███████████████████████░░   93.40 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-nuxt-intro               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+homepage                 9 hrs 12 mins       ███████████████████████░░   92.64 % 
+Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+blog                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 <!--END_SECTION:waka-->
