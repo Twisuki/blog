@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-542.50%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-543.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 10 hrs 49 mins      █████████████████████░░░░   83.63 % 
-PowerPoint               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+WebStorm                 12 hrs 47 mins      █████████████████████░░░░   83.35 % 
+PowerPoint               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Neovim                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-hnu-doc-frontend         5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
-homepage                 5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.08 % 
-Unknown Project          1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-neo-blog                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-front                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+hnu-doc-frontend         8 hrs 17 mins       ██████████████░░░░░░░░░░░   54.02 % 
+homepage                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Unknown Project          1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+neo-blog                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+blog                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 <!--END_SECTION:waka-->
