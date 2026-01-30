@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-543.74%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 12 hrs 47 mins      █████████████████████░░░░   83.35 % 
-PowerPoint               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Neovim                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+WebStorm                 11 hrs 49 mins      █████████████████████░░░░   84.70 % 
+PowerPoint               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🐱‍💻 Projects: 
-hnu-doc-frontend         8 hrs 17 mins       ██████████████░░░░░░░░░░░   54.02 % 
-homepage                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-Unknown Project          1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-neo-blog                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-blog                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+hnu-doc-frontend         9 hrs 27 mins       █████████████████░░░░░░░░   67.77 % 
+homepage                 2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Unknown Project          1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+neo-blog                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+web                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 <!--END_SECTION:waka-->
