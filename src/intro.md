@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550.82%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,16 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 9 mins       ███████████████░░░░░░░░░░   58.41 % 
-PyCharm                  7 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+WebStorm                 8 hrs 59 mins       █████████████░░░░░░░░░░░░   51.40 % 
+PyCharm                  8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
+Neovim                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
-hnu-doc-frontend         6 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
-front                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-homepage                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Twisuki                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+hmo_mms                  8 hrs 57 mins       █████████████░░░░░░░░░░░░   51.18 % 
+hnu-doc-frontend         4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+homepage                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+front                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 <!--END_SECTION:waka-->
