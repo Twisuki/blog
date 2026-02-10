@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.34%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.35%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 53 mins      ██████████████░░░░░░░░░░░   54.37 % 
-PyCharm                  9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+WebStorm                 12 hrs 24 mins      ██████████████░░░░░░░░░░░   55.29 % 
+PyCharm                  9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  14 hrs 22 mins      ████████████████░░░░░░░░░   65.72 % 
-hnu-doc-frontend         3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-homepage                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-front                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+hmo_mms                  18 hrs 24 mins      ████████████████████░░░░░   82.00 % 
+hnu-doc-frontend         1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+front                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Twisuki                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 <!--END_SECTION:waka-->
