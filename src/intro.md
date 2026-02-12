@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 14 hrs 54 mins      ██████████████░░░░░░░░░░░   57.13 % 
-PyCharm                  9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
-IntelliJ IDEA            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Neovim                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+WebStorm                 14 hrs 30 mins      ██████████████░░░░░░░░░░░   57.14 % 
+PyCharm                  9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+IntelliJ IDEA            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  20 hrs 56 mins      ████████████████████░░░░░   80.19 % 
-hnu-doc-frontend         1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-djLint                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-front                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+hmo_mms                  20 hrs 56 mins      █████████████████████░░░░   82.46 % 
+hnu-doc-frontend         1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+djLint                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+front                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+hmomms_backend           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 <!--END_SECTION:waka-->
