@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.45%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 15 hrs 53 mins      ████████████████░░░░░░░░░   65.96 % 
-PyCharm                  6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-IntelliJ IDEA            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+WebStorm                 15 hrs 9 mins       ████████████████████░░░░░   80.66 % 
+PyCharm                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+IntelliJ IDEA            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  19 hrs 35 mins      ████████████████████░░░░░   81.29 % 
-hnu-doc-frontend         1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-djLint                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-front                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-hmomms_backend           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+hmo_mms                  16 hrs 13 mins      ██████████████████████░░░   86.35 % 
+djLint                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+hnu-doc-frontend         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+YuhanWebsite             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+front                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 <!--END_SECTION:waka-->
