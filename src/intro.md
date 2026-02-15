@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.46%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-506.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 15 hrs 9 mins       ████████████████████░░░░░   80.66 % 
-PyCharm                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-IntelliJ IDEA            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+WebStorm                 27 hrs 48 mins      █████████████████████░░░░   82.06 % 
+PyCharm                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+IntelliJ IDEA            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Neovim                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  16 hrs 13 mins      ██████████████████████░░░   86.35 % 
-djLint                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-hnu-doc-frontend         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-YuhanWebsite             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-front                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+hmo_mms                  26 hrs 43 mins      ████████████████████░░░░░   78.87 % 
+homepage                 2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HMOIndex                 1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+djLint                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+back_2024                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 <!--END_SECTION:waka-->
