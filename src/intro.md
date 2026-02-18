@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-567.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-567.99%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 21 hrs 16 mins      ████████████████████░░░░░   80.94 % 
-PyCharm                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-IntelliJ IDEA            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+WebStorm                 17 hrs              █████████████████████░░░░   84.70 % 
+PyCharm                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Neovim                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  19 hrs 13 mins      ██████████████████░░░░░░░   73.11 % 
-homepage                 2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-HMOIndex                 1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-djLint                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-back_2024                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+hmo_mms                  13 hrs 52 mins      █████████████████░░░░░░░░   69.11 % 
+homepage                 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+HMOIndex                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+back_2024                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+front                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 <!--END_SECTION:waka-->
