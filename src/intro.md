@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-567.99%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 17 hrs              █████████████████████░░░░   84.70 % 
-PyCharm                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Neovim                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+WebStorm                 12 hrs 51 mins      ████████████████████░░░░░   80.71 % 
+PyCharm                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Neovim                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  13 hrs 52 mins      █████████████████░░░░░░░░   69.11 % 
-homepage                 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-HMOIndex                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-back_2024                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-front                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+hmo_mms                  14 hrs 12 mins      ██████████████████████░░░   89.23 % 
+back_2024                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+front                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+YuhanWebsite             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 <!--END_SECTION:waka-->
