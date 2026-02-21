@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-722%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.01%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.53%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 16 mins      ██████████████████████░░░   88.49 % 
-PyCharm                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-RustRover                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+WebStorm                 8 hrs 18 mins       ██████████████████████░░░   88.49 % 
+PyCharm                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+RustRover                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  11 hrs 46 mins      ███████████████████████░░   92.44 % 
-front                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-YuhanWebsite             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-hnu-doc-frontend         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+hmo_mms                  8 hrs 58 mins       ████████████████████████░   95.63 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+front                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+back_2024                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+hnu-doc-frontend         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 <!--END_SECTION:waka-->
