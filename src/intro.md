@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.12%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.13%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,11 +77,14 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs               ███████████████████████░░   93.67 % 
-VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+WebStorm                 12 hrs 3 mins       ███████████████████████░░   93.05 % 
+PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  3 hrs 12 mins       █████████████████████████   100.00 % 
+hmo_mms                  12 hrs 56 mins      █████████████████████████   99.81 % 
+front                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 <!--END_SECTION:waka-->
