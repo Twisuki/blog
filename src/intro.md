@@ -77,13 +77,12 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 12 hrs 3 mins       ███████████████████████░░   93.05 % 
-PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+WebStorm                 12 hrs 2 mins       ███████████████████████░░   93.04 % 
+PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  12 hrs 56 mins      █████████████████████████   99.81 % 
-front                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+hmo_mms                  12 hrs 56 mins      █████████████████████████   99.93 % 
 project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
