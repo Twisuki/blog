@@ -44,6 +44,12 @@ const friends: ThemeBlogHomeProjectOptions[] = [
     link: "https://github.com/ChenXu233"
   },
   {
+    name: "EDream的小破站",
+    icon: "https://blog.edmc.cn/upload/c8488d33-3549-4b6d-9d91-e66f576936d8.png",
+    desc: "人生没有绝对精彩，雨后或许没有彩虹，但后退一步确是失败。",
+    link: "https://blog.edmc.cn/"
+  },
+  {
     name: "BFladderbean",
     icon: "/friends/BFladderbean.jpg",
     desc: "OIer(AFOed)/Front-End/Back-End/Machine Learning. C++/Go/JS/TS/Python",
