@@ -32,10 +32,10 @@ const friends: ThemeBlogHomeProjectOptions[] = [
     link: "https://blog.yaria.top"
   },
   {
-    name: "yuhan2680 小涵",
+    name: "小涵の个人网站",
     icon: "/friends/yuhan2680.jpg",
-    desc: "你好, 这里是小涵w",
-    link: "https://github.com/yuhan2680"
+    desc: "以一灯燃百千灯，直至万灯皆明",
+    link: "https://naiwenel.com/"
   },
   {
     name: "ChenXu233 沐浴晨煦",
