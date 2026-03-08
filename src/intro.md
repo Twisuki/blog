@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 58 mins       █████████████████░░░░░░░░   67.82 % 
-VS Code                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Neovim                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-RustRover                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+WebStorm                 10 hrs 40 mins      █████████████████████░░░░   82.76 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+RustRover                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-front                    3 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.89 % 
-front_2026               2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
-yqwork_frontend_2025     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-back_2024                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+front_2026               7 hrs 45 mins       ███████████████░░░░░░░░░░   60.16 % 
+front                    4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+yqwork_frontend_2025     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+back_2024                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+yqwork-2023              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 <!--END_SECTION:waka-->
