@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623.04%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.86%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 50 mins      ████████████████████░░░░░   78.88 % 
-VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-RustRover                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+WebStorm                 17 hrs 41 mins      ███████████████████████░░   91.39 % 
+PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-front_2026               10 hrs 6 mins       █████████████████░░░░░░░░   67.30 % 
-front                    2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-GemAudit                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+front_2026               9 hrs 47 mins       █████████████░░░░░░░░░░░░   50.58 % 
+front                    5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+GemAudit                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+HMOIndex                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 <!--END_SECTION:waka-->
