@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-565.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627.66%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 16 hrs 42 mins      ███████████████████████░░   90.83 % 
-PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+WebStorm                 14 hrs 21 mins      ██████████████████████░░░   89.62 % 
+PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-front_2026               9 hrs 47 mins       █████████████░░░░░░░░░░░░   53.21 % 
-front                    3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-GemAudit                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-HMOIndex                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+front_2026               8 hrs 1 min         █████████████░░░░░░░░░░░░   50.11 % 
+GemAudit                 3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+front                    3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+HMOIndex                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 <!--END_SECTION:waka-->
