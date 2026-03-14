@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627.67%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-628.13%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 12 hrs 35 mins      ██████████████████████░░░   88.34 % 
-PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+WebStorm                 13 hrs 49 mins      ███████████████████████░░   90.05 % 
+PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-front_2026               7 hrs 21 mins       █████████████░░░░░░░░░░░░   51.60 % 
-GemAudit                 3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-front                    2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-HMOIndex                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+front_2026               7 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.84 % 
+GemAudit                 5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
+front                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+hmo_mms                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+HMOIndex                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 <!--END_SECTION:waka-->
