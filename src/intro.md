@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-572.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 57 mins       █████████████████████░░░░   84.40 % 
-HbuilderX                39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+WebStorm                 4 hrs 11 mins       ███████████████░░░░░░░░░░   60.46 % 
+PyCharm                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+HbuilderX                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🐱‍💻 Projects: 
-GemAudit                 4 hrs 17 mins       ██████████████████░░░░░░░   73.23 % 
-IPortal封装版               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-HMOIndex                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-front                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-blog                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+GemAudit                 4 hrs 26 mins       ████████████████░░░░░░░░░   64.02 % 
+lite-desk                1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+IPortal封装版               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+ErrOrO                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+hmo_mms                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 <!--END_SECTION:waka-->
