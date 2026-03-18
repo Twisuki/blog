@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.07%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 11 mins       ███████████████░░░░░░░░░░   60.46 % 
-PyCharm                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-HbuilderX                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+WebStorm                 13 hrs 1 min        ███████████████████░░░░░░   77.35 % 
+PyCharm                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+HbuilderX                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Excel                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-GemAudit                 4 hrs 26 mins       ████████████████░░░░░░░░░   64.02 % 
-lite-desk                1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-IPortal封装版               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-ErrOrO                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-hmo_mms                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+GemAudit                 13 hrs 53 mins      █████████████████████░░░░   82.49 % 
+lite-desk                1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+IPortal封装版               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+ErrOrO                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 <!--END_SECTION:waka-->
