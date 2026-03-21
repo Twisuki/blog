@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.87%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-633.10%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 11 mins       █████████████████░░░░░░░░   67.69 % 
-PyCharm                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-HbuilderX                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Neovim                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Excel                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+WebStorm                 6 hrs 55 mins       ███████████████░░░░░░░░░░   61.18 % 
+PyCharm                  2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+HbuilderX                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Neovim                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Excel                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🐱‍💻 Projects: 
-GemAudit                 9 hrs 51 mins       ██████████████████░░░░░░░   72.54 % 
-lite-desk                1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-IPortal封装版               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-frontend                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+GemAudit                 7 hrs 34 mins       █████████████████░░░░░░░░   67.01 % 
+lite-desk                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+IPortal封装版               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+frontend                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 <!--END_SECTION:waka-->
