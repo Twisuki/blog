@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-633.14%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-634.05%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 13 mins       █████████████░░░░░░░░░░░░   53.13 % 
-PyCharm                  2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Neovim                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Excel                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+WebStorm                 4 hrs 1 min         ████████████░░░░░░░░░░░░░   48.13 % 
+PyCharm                  2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+Neovim                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Excel                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🐱‍💻 Projects: 
-GemAudit                 4 hrs 53 mins       ███████████████░░░░░░░░░░   61.42 % 
-lite-desk                1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-frontend                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-hmo_mms                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+lite-desk                3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
+GemAudit                 3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+frontend                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+hmo_mms                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 <!--END_SECTION:waka-->
