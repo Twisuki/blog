@@ -75,7 +75,7 @@ const friends: ThemeBlogHomeProjectOptions[] = [
   },
   {
     name: "阿叶Ayeez",
-    icon: "https://blog.ayeez.cn/imgs/photo.jpg",
+    icon: "https://qiniu.ayeez.cn/avatar.jpg",
     desc: "记录学习历程, 记录美好生活",
     link: "https://blog.Ayeez.cn",
   }
