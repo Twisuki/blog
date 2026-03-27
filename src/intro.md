@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-634.38%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 27 mins      █████████████████████░░░░   82.03 % 
-PyCharm                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Excel                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+WebStorm                 11 hrs 18 mins      █████████████████████░░░░   82.55 % 
+PyCharm                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Excel                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-lite-desk                6 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-GemAudit                 6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.87 % 
-Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Application              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-hmo_mms                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+lite-desk                6 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.07 % 
+GemAudit                 6 hrs               ███████████░░░░░░░░░░░░░░   43.79 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Application              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+hmo_mms                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 <!--END_SECTION:waka-->
