@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.23%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.41%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 49 mins       ████████████████████░░░░░   80.41 % 
-PyCharm                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Excel                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+WebStorm                 10 hrs 47 mins      █████████████████░░░░░░░░   69.35 % 
+PyCharm                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+PowerPoint               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Neovim                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Excel                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-lite-desk                6 hrs 43 mins       ███████████████░░░░░░░░░░   61.24 % 
-GemAudit                 3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Unknown Project          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-taskify                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-hmo_mms                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+lite-desk                7 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.20 % 
+GemAudit                 5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+Unknown Project          2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+test                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+project                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 <!--END_SECTION:waka-->
