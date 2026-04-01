@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.45%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs 50 mins       █████████████░░░░░░░░░░░░   51.74 % 
-PowerPoint               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-PyCharm                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Neovim                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Unknown Editor           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+WebStorm                 14 hrs 33 mins      ███████████████████░░░░░░   76.14 % 
+PyCharm                  2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+PowerPoint               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Neovim                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Word                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-GemAudit                 2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-lite-desk                2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Unknown Project          2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-test                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-project                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+google-taskify           8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.15 % 
+GemAudit                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+lite-desk                2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+taskify                  2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Unknown Project          1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 <!--END_SECTION:waka-->
