@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-589.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-649.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 45 mins       ████████████████░░░░░░░░░   64.96 % 
-PyCharm                  2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-PowerPoint               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Neovim                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Word                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+WebStorm                 6 hrs 48 mins       ███████████████████░░░░░░   76.33 % 
+PyCharm                  1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Word                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-GemAudit                 2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-lite-desk                2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Unknown Project          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-hsi-mae                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+westlake-science-cafe-tar3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.94 % 
+lite-desk                1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+hsi-mae                  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+westlake-science-cafe 2  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+taskify                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 ```
 
 <!--END_SECTION:waka-->
