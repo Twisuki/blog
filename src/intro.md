@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-649.07%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-649.71%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 6 hrs 48 mins       ███████████████████░░░░░░   76.33 % 
-PyCharm                  1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Word                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+WebStorm                 4 hrs 47 mins       ██████████████████░░░░░░░   72.80 % 
+PyCharm                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.94 % 
-lite-desk                1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-hsi-mae                  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-westlake-science-cafe 2  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-taskify                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+westlake-science-cafe-tar3 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.29 % 
+hsi-mae                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+westlake-science-cafe 2  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+taskify                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+front                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 <!--END_SECTION:waka-->
