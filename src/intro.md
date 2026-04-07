@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-649.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-650.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 47 mins       ██████████████████░░░░░░░   72.80 % 
-PyCharm                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+WebStorm                 3 hrs 54 mins       ████████████████████████░   96.02 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar3 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.29 % 
-hsi-mae                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-westlake-science-cafe 2  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-taskify                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-front                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+westlake-science-cafe-tar3 hrs 6 mins        ███████████████████░░░░░░   76.68 % 
+westlake-science-cafe 2  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+westlake-science-cafe    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+taskify                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 <!--END_SECTION:waka-->
