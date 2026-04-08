@@ -77,16 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 3 hrs 54 mins       ████████████████████████░   96.02 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+WebStorm                 19 hrs 15 mins      ██████████████████████░░░   89.41 % 
+PyCharm                  1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar3 hrs 6 mins        ███████████████████░░░░░░   76.68 % 
-westlake-science-cafe 2  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-westlake-science-cafe    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-taskify                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+westlake-science-cafe-tar11 hrs 47 mins      ██████████████░░░░░░░░░░░   54.77 % 
+GemAudit                 5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+washuyang-frontend       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+westlake-science-cafe 2  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 <!--END_SECTION:waka-->
