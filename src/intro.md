@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-650.01%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-650.02%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,16 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 20 hrs 9 mins       ██████████████████████░░░   87.93 % 
-PyCharm                  1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+WebStorm                 17 hrs 27 mins      █████████████████████░░░░   82.10 % 
+Claude Code              2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+PyCharm                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar12 hrs 59 mins      ██████████████░░░░░░░░░░░   56.68 % 
-GemAudit                 5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-washuyang-frontend       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-neo-filter               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Unknown Project          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+westlake-science-cafe-tar13 hrs 53 mins      ████████████████░░░░░░░░░   65.36 % 
+GemAudit                 3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+washuyang-frontend       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+neo-filter               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+taskify                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 <!--END_SECTION:waka-->
