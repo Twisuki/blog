@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-655.06%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-655.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 17 hrs 18 mins      ████████████████████░░░░░   78.93 % 
-Claude Code              4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Neovim                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+WebStorm                 15 hrs 3 mins       ████████████████████░░░░░   78.36 % 
+Claude Code              3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Neovim                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar16 hrs 44 mins      ███████████████████░░░░░░   76.32 % 
-neo-filter               3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-taskify                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-google-taskify           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-front                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+westlake-science-cafe-tar13 hrs 48 mins      ██████████████████░░░░░░░   71.90 % 
+neo-filter               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+GemAudit                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+taskify                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+google-taskify           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 <!--END_SECTION:waka-->
