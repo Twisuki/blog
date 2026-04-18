@@ -67,29 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-655.55%20thousand%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-WebStorm                 13 hrs 40 mins      ████████████████████░░░░░   78.49 % 
-Claude Code              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-PyCharm                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🐱‍💻 Projects: 
-westlake-science-cafe-tar10 hrs 31 mins      ███████████████░░░░░░░░░░   60.40 % 
-GemAudit                 3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-neo-filter               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-google-taskify           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-taskify                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-655.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 <!--END_SECTION:waka-->
 
