@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-657.94%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-657.95%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 12 mins       ████████████████░░░░░░░░░   65.32 % 
-Claude Code              2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-PyCharm                  1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+WebStorm                 8 hrs 12 mins       ██████████████░░░░░░░░░░░   55.20 % 
+Claude Code              3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+PyCharm                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Unknown Editor           1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Neovim                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-GemAudit                 6 hrs 51 mins       ██████████████░░░░░░░░░░░   54.60 % 
-westlake-science-cafe-tar3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-hsi-mae                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-index.html               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-taskify                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+westlake-science-cafe-tar7 hrs 27 mins       █████████████░░░░░░░░░░░░   50.10 % 
+GemAudit                 5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+hsi-mae                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+index.html               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 <!--END_SECTION:waka-->
