@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-658.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-666.94%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
-Claude Code              4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-Unknown Editor           3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+WebStorm                 5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Claude Code              5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Unknown Editor           4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar11 hrs 57 mins      █████████████████████░░░░   84.98 % 
-hsi-mae                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-front                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-blog                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+westlake-science-cafe-tar13 hrs 10 mins      ███████████████████░░░░░░   76.32 % 
+node_hnu_query           1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+hsi-mae                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+front                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+hnu_query                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 <!--END_SECTION:waka-->
