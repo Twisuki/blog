@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-674.82%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-675.13%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 7 hrs 32 mins       ██████████████░░░░░░░░░░░   55.66 % 
-Claude Code              2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Unknown Editor           1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-PowerPoint               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+WebStorm                 13 hrs 18 mins      ██████████████████░░░░░░░   72.22 % 
+Claude Code              2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Unknown Editor           1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+PowerPoint               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-homepage                 5 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.21 % 
-westlake-science-cafe-tar4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-node_hnu_query           1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Application              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-hnu_query                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+homepage                 12 hrs 17 mins      █████████████████░░░░░░░░   66.72 % 
+westlake-science-cafe-tar3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+node_hnu_query           1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Application              50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+hnu_query                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 <!--END_SECTION:waka-->
