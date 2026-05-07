@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.91%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.47%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 25 hrs 26 mins      ███████████████████████░░   92.66 % 
-PowerPoint               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Claude Code              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Unknown Editor           19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+WebStorm                 30 hrs 37 mins      ███████████████████████░░   93.52 % 
+PowerPoint               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Claude Code              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Unknown Editor           19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Word                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-homepage                 26 hrs 56 mins      █████████████████████████   98.07 % 
-westlake-science-cafe-tar22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-taskify                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-hmo_mms                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+homepage                 32 hrs 6 mins       █████████████████████████   98.04 % 
+westlake-science-cafe-tar22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+taskify                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+hmo_mms                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 <!--END_SECTION:waka-->
