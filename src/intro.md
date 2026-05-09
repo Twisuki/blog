@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.48%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.61%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 31 hrs 34 mins      ███████████████████████░░   91.15 % 
-PowerPoint               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Unknown Editor           58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-IntelliJ IDEA            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+WebStorm                 32 hrs 25 mins      ██████████████████████░░░   87.97 % 
+Unknown Editor           1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+PowerPoint               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+IntelliJ IDEA            34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🐱‍💻 Projects: 
-homepage                 32 hrs 11 mins      ███████████████████████░░   92.94 % 
-westlake-science-cafe-tar2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-washuyang-backend        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-hmo_mms                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+homepage                 32 hrs 54 mins      ██████████████████████░░░   89.26 % 
+westlake-science-cafe-tar3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+washuyang-backend        34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+hnu_query                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 <!--END_SECTION:waka-->
