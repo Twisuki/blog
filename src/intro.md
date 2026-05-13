@@ -67,7 +67,7 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 26 hrs 10 mins      █████████████████████░░░░   82.16 % 
-Unknown Editor           2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-IntelliJ IDEA            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Excel                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+WebStorm                 18 hrs 57 mins      █████████████████░░░░░░░░   66.49 % 
+Unknown Editor           6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+IntelliJ IDEA            1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Excel                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🐱‍💻 Projects: 
-homepage                 25 hrs 44 mins      ████████████████████░░░░░   80.82 % 
-westlake-science-cafe-tar3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Unknown Project          1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-washuyang-backend        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-hsi-mae                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+homepage                 17 hrs 4 mins       ███████████████░░░░░░░░░░   59.89 % 
+westlake-science-cafe-tar7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+washuyang-backend        1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Unknown Project          1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+hsi-mae                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 <!--END_SECTION:waka-->
