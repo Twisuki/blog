@@ -67,7 +67,29 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.20%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2057%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.21%20thousand%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+🔥 Editors: 
+Unknown Editor           18 hrs 49 mins      ███████████████░░░░░░░░░░   60.57 % 
+WebStorm                 8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+IntelliJ IDEA            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Word                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+PowerPoint               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+
+🐱‍💻 Projects: 
+westlake-science-cafe-tar22 hrs 9 mins       ██████████████████░░░░░░░   71.28 % 
+washuyang-backend        6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Unknown Project          1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+homepage                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+hnu_query                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+```
 
 <!--END_SECTION:waka-->
 
