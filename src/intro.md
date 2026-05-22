@@ -67,9 +67,7 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2017%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-691.18%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +75,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              17 hrs 3 mins       ██████████████░░░░░░░░░░░   56.13 % 
-WebStorm                 7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-IntelliJ IDEA            2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Neovim                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Word                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Claude Code              13 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.83 % 
+WebStorm                 10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.50 % 
+IntelliJ IDEA            2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Neovim                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+PowerPoint               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar16 hrs 5 mins       █████████████░░░░░░░░░░░░   52.92 % 
-washuyang-backend        8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-homepage                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Unknown Project          1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-front_2026               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+washuyang-backend        11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.41 % 
+front_2026               8 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+westlake-science-cafe-tar6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+homepage                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Unknown Project          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 <!--END_SECTION:waka-->
