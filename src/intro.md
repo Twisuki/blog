@@ -67,9 +67,7 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-691.91%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-692.10%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +75,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              10 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   41.62 % 
-WebStorm                 10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.34 % 
-IntelliJ IDEA            2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Neovim                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-PowerPoint               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+WebStorm                 10 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.21 % 
+Claude Code              9 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.45 % 
+Neovim                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+IntelliJ IDEA            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+PowerPoint               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-washuyang-backend        10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
-front_2026               10 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
-homepage                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-westlake-science-cafe-tar2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-front                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+front_2026               10 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
+washuyang-backend        8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+homepage                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+westlake-science-cafe-tar2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+front                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 <!--END_SECTION:waka-->
