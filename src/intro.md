@@ -67,7 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-711.24%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2033%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 31 hrs 41 mins      ████████████████████░░░░░   78.72 % 
-Claude Code              7 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Neovim                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+WebStorm                 30 hrs 1 min        ███████████████████░░░░░░   77.62 % 
+Claude Code              8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    31 hrs 51 mins      ████████████████████░░░░░   79.15 % 
-westlake-science-cafe-tar5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-front                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-washuyang-backend        49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+weihuda_weapp_tsumiki    29 hrs 32 mins      ███████████████████░░░░░░   76.38 % 
+westlake-science-cafe-tar7 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+front                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+washuyang-backend        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 <!--END_SECTION:waka-->
