@@ -33,7 +33,6 @@ jobs:
 
       - name: 安装依赖
         run: |
-          corepack enable
           pnpm install --frozen-lockfile --no-ignore-scripts
 
       - name: 构建文档
