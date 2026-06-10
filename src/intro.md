@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712.74%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-785.72%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 30 hrs 38 mins      ███████████████████░░░░░░   75.21 % 
-Claude Code              9 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+WebStorm                 29 hrs 27 mins      ██████████████████░░░░░░░   70.75 % 
+Claude Code              11 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    30 hrs 47 mins      ███████████████████░░░░░░   75.59 % 
-westlake-science-cafe-tar8 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-front                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-blog                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+weihuda_weapp_tsumiki    28 hrs 59 mins      █████████████████░░░░░░░░   69.64 % 
+westlake-science-cafe-tar10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+front                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+homepage                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 <!--END_SECTION:waka-->
