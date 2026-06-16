@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789.72%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 22 hrs 4 mins       ████████████████░░░░░░░░░   64.71 % 
-Claude Code              10 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   30.21 % 
-PyCharm                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Excel                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+WebStorm                 19 hrs 34 mins      ████████████████░░░░░░░░░   62.66 % 
+Claude Code              9 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+PyCharm                  1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Neovim                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Excel                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    19 hrs 38 mins      ██████████████░░░░░░░░░░░   57.57 % 
-westlake-science-cafe-tar7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-hsi-mae                  3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-front                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Botzhipin                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+weihuda_weapp_tsumiki    16 hrs 32 mins      █████████████░░░░░░░░░░░░   52.97 % 
+westlake-science-cafe-tar6 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+hsi-mae                  3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+front                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+RLE-wiki                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 <!--END_SECTION:waka-->
