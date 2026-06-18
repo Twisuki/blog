@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789.73%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 19 hrs 24 mins      ████████████████░░░░░░░░░   64.47 % 
-Claude Code              7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-PyCharm                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-PowerPoint               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Neovim                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+WebStorm                 17 hrs 34 mins      ███████████████░░░░░░░░░░   60.49 % 
+Claude Code              6 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+PyCharm                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+PowerPoint               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Neovim                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    18 hrs 28 mins      ███████████████░░░░░░░░░░   61.37 % 
-hsi-mae                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-westlake-science-cafe-tar2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Unknown Project          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-front                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+weihuda_weapp_tsumiki    18 hrs 19 mins      ████████████████░░░░░░░░░   63.09 % 
+hsi-mae                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Unknown Project          3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+westlake-science-cafe-tar1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+RLE-wiki                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 <!--END_SECTION:waka-->
