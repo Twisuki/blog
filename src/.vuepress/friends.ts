@@ -78,6 +78,12 @@ const friends: ThemeBlogHomeProjectOptions[] = [
     icon: "https://qiniu.ayeez.cn/avatar.jpg",
     desc: "记录学习历程, 记录美好生活",
     link: "https://blog.Ayeez.cn",
+  },
+  {
+    name: "洛柠Naloveyuki",
+    icon: "https://github.com/Nanaloveyuki.png",
+    desc: "杯中柠汁",
+    link: "https://naloveyuki.top",
   }
 ]
 export default friends
