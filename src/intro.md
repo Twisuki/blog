@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C170%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-792.53%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-792.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
-VS Code                  7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-Claude Code              6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Neovim                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Word                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+VS Code                  10 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   39.59 % 
+WebStorm                 7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+Claude Code              5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Neovim                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Word                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    12 hrs 55 mins      ████████████░░░░░░░░░░░░░   46.03 % 
-Unknown Project          12 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.84 % 
-报告                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-washuyang-frontend       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-westlake-science-cafe-tar23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Unknown Project          13 hrs 34 mins      █████████████░░░░░░░░░░░░   50.41 % 
+weihuda_weapp_tsumiki    10 hrs              █████████░░░░░░░░░░░░░░░░   37.16 % 
+报告                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+报告修订                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+washuyang-frontend       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 <!--END_SECTION:waka-->
