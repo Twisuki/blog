@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  7 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
-WebStorm                 7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-Claude Code              5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Neovim                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+VS Code                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
+WebStorm                 6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Claude Code              4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Word                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-Unknown Project          6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-westlake-science-cafe-tar4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-报告修订                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-washuyang-frontend       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+weihuda_weapp_tsumiki    7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
+Unknown Project          6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
+westlake-science-cafe-tar4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+pdf                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+报告修订                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 <!--END_SECTION:waka-->
