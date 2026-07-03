@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-825.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-825.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
-Claude Code              4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
-VS Code                  4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-PowerPoint               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Claude Code              6 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.87 % 
+VS Code                  3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+WebStorm                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🐱‍💻 Projects: 
-westlake-science-cafe-tar4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-weihuda_weapp_tsumiki    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Unknown Project          3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-ohday                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-pdf                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+westlake-science-cafe-tar4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+Unknown Project          3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+ohday                    3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+pdf                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 <!--END_SECTION:waka-->
