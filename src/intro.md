@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-825.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-765.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
-WebStorm                 8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
-VS Code                  3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+WebStorm                 10 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.39 % 
+Claude Code              8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.06 % 
+VS Code                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-ohday                    12 hrs 37 mins      ███████████████░░░░░░░░░░   59.14 % 
-westlake-science-cafe-tar4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Unknown Project          3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-blog                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+ohday                    15 hrs 43 mins      ██████████████████░░░░░░░   73.20 % 
+westlake-science-cafe-tar3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Unknown Project          1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+blog                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 <!--END_SECTION:waka-->
