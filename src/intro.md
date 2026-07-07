@@ -69,7 +69,7 @@ titles:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-825.37%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 9 hrs 43 mins       ██████████████░░░░░░░░░░░   54.03 % 
-Claude Code              7 hrs               ██████████░░░░░░░░░░░░░░░   38.91 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+WebStorm                 11 hrs 27 mins      ██████████████░░░░░░░░░░░   57.80 % 
+Claude Code              7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.79 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-ohday                    15 hrs 43 mins      ██████████████████████░░░   87.35 % 
-Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-blog                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+ohday                    16 hrs 31 mins      █████████████████████░░░░   83.30 % 
+blog                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 代码.ipynb                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
