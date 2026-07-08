@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811.04%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 27 mins      ██████████████░░░░░░░░░░░   57.80 % 
-Claude Code              7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.79 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+WebStorm                 11 hrs 36 mins      ███████████████░░░░░░░░░░   59.34 % 
+Claude Code              6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-ohday                    16 hrs 31 mins      █████████████████████░░░░   83.30 % 
-blog                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+ohday                    16 hrs 54 mins      ██████████████████████░░░   86.43 % 
+blog                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 代码.ipynb                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
