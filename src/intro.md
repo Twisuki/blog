@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 36 mins      ███████████████░░░░░░░░░░   59.34 % 
-Claude Code              6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+WebStorm                 11 hrs 10 mins      ████████████████░░░░░░░░░   62.85 % 
+Claude Code              5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-ohday                    16 hrs 54 mins      ██████████████████████░░░   86.43 % 
-blog                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-hsi-mae                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+ohday                    16 hrs 3 mins       ███████████████████████░░   90.30 % 
+blog                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 代码.ipynb                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+taskify                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 <!--END_SECTION:waka-->
