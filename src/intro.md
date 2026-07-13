@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.77%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,16 +77,16 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 4 hrs 57 mins       ████████████████████░░░░░   80.21 % 
-Claude Code              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+WebStorm                 7 hrs 10 mins       ██████████████████░░░░░░░   72.22 % 
+Claude Code              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-ohday                    2 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.78 % 
-weihuda_weapp_tsumiki    2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.70 % 
-blog                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+ohday                    6 hrs 8 mins        ███████████████░░░░░░░░░░   61.77 % 
+weihuda_weapp_tsumiki    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+blog                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 <!--END_SECTION:waka-->
