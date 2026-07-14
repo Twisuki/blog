@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.80%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,16 +77,15 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 7 hrs 10 mins       ██████████████████░░░░░░░   72.22 % 
-Claude Code              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+WebStorm                 5 hrs 25 mins       █████████████████░░░░░░░░   67.00 % 
+Claude Code              2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-ohday                    6 hrs 8 mins        ███████████████░░░░░░░░░░   61.77 % 
-weihuda_weapp_tsumiki    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-blog                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+ohday                    5 hrs 20 mins       █████████████████░░░░░░░░   66.13 % 
+weihuda_weapp_tsumiki    2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 <!--END_SECTION:waka-->
