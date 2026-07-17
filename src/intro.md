@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.27%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.15 % 
-Claude Code              4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
-PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+WebStorm                 8 hrs 6 mins        ████████████████░░░░░░░░░   62.50 % 
+Claude Code              4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.65 % 
+PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-ohday                    4 hrs 57 mins       █████████████░░░░░░░░░░░░   51.59 % 
-weihuda_weapp_tsumiki    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-missevan-multifunction-bt1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-missevan-mobile          43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+ohday                    4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.24 % 
+missevan-multifunction-bt2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+weihuda_weapp_tsumiki    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+resumic                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+missevan-mobile          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 <!--END_SECTION:waka-->
