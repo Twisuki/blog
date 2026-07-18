@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.28%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,17 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 8 hrs 6 mins        ████████████████░░░░░░░░░   62.50 % 
-Claude Code              4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.65 % 
-PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+WebStorm                 12 hrs              █████████████████░░░░░░░░   68.52 % 
+Claude Code              5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+PowerPoint               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-ohday                    4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.24 % 
-missevan-multifunction-bt2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-weihuda_weapp_tsumiki    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-resumic                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-missevan-mobile          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+ohday                    4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+missevan-multifunction-bt3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+weihuda_weapp_tsumiki    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+itsme                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+resumic                  2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 
 <!--END_SECTION:waka-->
