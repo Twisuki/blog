@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2041%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,17 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 10 hrs 31 mins      █████████████████░░░░░░░░   66.03 % 
-Claude Code              5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-PowerPoint               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+WebStorm                 9 hrs 26 mins       ███████████████░░░░░░░░░░   60.92 % 
+Claude Code              4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+PowerPoint               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-itsme                    4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-ohday                    3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-missevan-multifunction-bt2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-missevan-standalone-neo  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-resumic                  2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+itsme                    4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+adofai-dglab             3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+missevan-multifunction-bt2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+missevan-standalone-neo  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+resumic                  2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 <!--END_SECTION:waka-->
