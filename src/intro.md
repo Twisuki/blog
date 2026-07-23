@@ -67,9 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C237%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.56%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 35 mins      ████████████░░░░░░░░░░░░░   46.94 % 
-Claude Code              10 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
-VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Neovim                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-PowerPoint               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Claude Code              11 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.22 % 
+WebStorm                 9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
+VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Neovim                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+PowerPoint               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-adofai-dglab             7 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
-itsme                    4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-maoer-event-codeblock    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-missevan-standalone-neo  2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-missevan-multifunction-bt2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+adofai-dglab             7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+itsme                    4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+maoer-event-codeblock    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+missevan-standalone-neo  2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+missevan-multifunction-bt57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 
 <!--END_SECTION:waka-->
