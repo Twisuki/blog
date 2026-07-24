@@ -67,9 +67,7 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2010%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.57%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.05%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,18 +75,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              11 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.22 % 
-WebStorm                 9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
-VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Neovim                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PowerPoint               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Claude Code              12 hrs 17 mins      ██████████████░░░░░░░░░░░   56.44 % 
+WebStorm                 7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Neovim                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+PowerPoint               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-adofai-dglab             7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
-itsme                    4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-maoer-event-codeblock    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-missevan-standalone-neo  2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-missevan-multifunction-bt57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+adofai-dglab             7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.24 % 
+weihuda_weapp_tsumiki    3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+maoer-event-codeblock    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+itsme                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+ADOFAI_DGLab             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 <!--END_SECTION:waka-->
