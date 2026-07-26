@@ -67,7 +67,9 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.18%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%208%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-834.35%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,18 +77,18 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              12 hrs 14 mins      ██████████████░░░░░░░░░░░   55.39 % 
-WebStorm                 7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Neovim                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-PowerPoint               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Claude Code              12 hrs 37 mins      ███████████████░░░░░░░░░░   58.27 % 
+WebStorm                 7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Neovim                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-adofai-dglab             7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-weihuda_weapp_tsumiki    4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-maoer-event-codeblock    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-itsme                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-missevan-mobile          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+adofai-dglab             9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
+weihuda_weapp_tsumiki    4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+maoer-event-codeblock    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+ADOFAI_DGLab             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+missevan-mobile          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 <!--END_SECTION:waka-->
