@@ -67,11 +67,7 @@ titles:
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2052%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-837.81%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-838.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,41 +75,41 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              15 hrs 22 mins      ████████████████░░░░░░░░░   64.58 % 
-WebStorm                 6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Rider                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Claude Code              14 hrs 31 mins      ███████████████░░░░░░░░░░   61.86 % 
+WebStorm                 7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Rider                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-adofai-dglab             9 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.96 % 
-weihuda_weapp_tsumiki    4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-maoer-event-codeblock    3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-ADOFAI_DGLab             2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-ohday                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+adofai-dglab             9 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
+weihuda_weapp_tsumiki    7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
+ADOFAI_DGLab             1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+ohday                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+missevan-mobile          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 4 mins (84.39%)
+⏱ AI Coding Time: 18 hrs 51 mins (80.34%)
 
-✍️ 7,884 lines written by AI, 8,995 lines written by hand (46.71% AI-written)
+✍️ 7,556 lines written by AI, 693 lines written by hand (91.6% AI-written)
 
-🔤 164,814,964 Input Tokens, 667,690 Output Tokens
+🔤 172,177,262 Input Tokens, 667,342 Output Tokens
 
-💵 $273.98 Estimated AI Cost This Week
+💵 $322.81 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 274 AI Prompts
+🧠 30 AI Sessions, 288 AI Prompts
 
-Opus                     1,823 lines         █████████████████████████   99.08 % 
-Deepseek                 17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Opus                     2,909 lines         █████████████████████████   99.42 % 
+Deepseek                 17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.71% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 49.3% of changed lines were hand-edited
+🤖 AI-Driven — 91.6% of written lines came from AI
+📝 Concise Prompter — average 416 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 11.19% of changed lines were hand-edited
 ```
 
 <!--END_SECTION:waka-->
