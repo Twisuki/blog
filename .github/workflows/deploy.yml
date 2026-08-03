@@ -47,3 +47,5 @@ jobs:
           # 部署文档
           branch: gh-pages
           folder: src/.vuepress/dist
+          # gh-pages 是纯产物分支，只保留单个提交，避免历史无限累积
+          single-commit: true
