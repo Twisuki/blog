@@ -71,7 +71,7 @@ titles:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,39 +79,38 @@ titles:
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Claude Code              18 hrs 1 min        ████████████████░░░░░░░░░   64.53 % 
-WebStorm                 8 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Rider                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              13 hrs 15 mins      ███████████████░░░░░░░░░░   58.10 % 
+WebStorm                 8 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
+Rider                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🐱‍💻 Projects: 
-missevan-mobile          8 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-adofai-dglab             7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-weihuda_weapp_tsumiki    7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-ADOFAI_DGLab             2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-ohday                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+weihuda_weapp_tsumiki    8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+missevan-mobile          8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.57 % 
+adofai-dglab             2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+ADOFAI_DGLab             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+ohday                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 51 mins (81.8%)
+⏱ AI Coding Time: 17 hrs 29 mins (76.61%)
 
-✍️ 7,329 lines written by AI, 850 lines written by hand (89.61% AI-written)
+✍️ 5,423 lines written by AI, 938 lines written by hand (85.25% AI-written)
 
-🔤 187,249,291 Input Tokens, 709,288 Output Tokens
+🔤 128,358,734 Input Tokens, 395,302 Output Tokens
 
 💵 $496.04 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 331 AI Prompts
+🧠 25 AI Sessions, 262 AI Prompts
 
 Opus                     4,192 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.61% of written lines came from AI
-📝 Concise Prompter — average 378 characters per prompt
+🤖 AI-Driven — 85.25% of written lines came from AI
+📝 Concise Prompter — average 184 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 14.08% of changed lines were hand-edited
+🚀 High AI Trust — 19.71% of changed lines were hand-edited
 ```
 
 <!--END_SECTION:waka-->
