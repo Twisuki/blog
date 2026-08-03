@@ -18,23 +18,6 @@ jobs:
           repository: Twisuki/Twisuki
           path: source-repo
 
-      - name: Extract Waka section
-        id: extract-waka
-        run: |
-          # 提取 Waka 部分（确保标记存在）
-          WAKA_CONTENT=$(awk '/<!--START_SECTION:waka-->/ {flag=1; print; next} /<!--END_SECTION:waka-->/ {flag=0} flag' source-repo/README.md)
-          
-          if [ -z "$WAKA_CONTENT" ]; then
-            echo "::error::Waka section markers not found in README.md"
-            exit 1
-          fi
-          
-          # 仅保留标记之间的内容（去掉标记本身，后续在目标文件中重新插入）
-          WAKA_CONTENT_ONLY=$(sed -n '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/p' source-repo/README.md | sed '1d;$d')
-          echo "$WAKA_CONTENT_ONLY" > waka_section.txt
-          WAKA_BASE64=$(base64 -w 0 waka_section.txt)
-          echo "WAKA_BASE64=$WAKA_BASE64" >> $GITHUB_OUTPUT
-
       - name: Checkout target repo (Twisuki/blog)
         uses: actions/checkout@v4
         with:
@@ -42,39 +25,14 @@ jobs:
           path: target-repo
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Update target file (src/intro.md)
-        run: |
-          # 解码 Waka 内容
-          echo "${{ steps.extract-waka.outputs.WAKA_BASE64 }}" | base64 -d > waka_section_decoded.txt
-          
-          # 使用 awk 替换标记之间的内容（确保标记只出现一次）
-          awk '
-            BEGIN {
-              new_content = ""
-              while ((getline line < "waka_section_decoded.txt") > 0) {
-                new_content = new_content line "\n"
-              }
-              close("waka_section_decoded.txt")
-            }
-            $0 == "<!--START_SECTION:waka-->" { 
-              print; 
-              print new_content; 
-              in_section=1; 
-              next 
-            }
-            $0 == "<!--END_SECTION:waka-->" { 
-              in_section=0; 
-              print; 
-              next 
-            }
-            !in_section { print }
-          ' target-repo/src/intro.md > tmp_file && mv tmp_file target-repo/src/intro.md
+      - name: Update Waka section (src/intro.md)
+        run: node target-repo/scripts/update-waka.mjs source-repo/README.md target-repo/src/intro.md
 
       - name: Commit and push changes
         id: commit
         run: |
           cd target-repo
-          git config user.name "Twisuki"
+          git config user.name "Twis Waka Bot"
           git config user.email "100500860+Twisuki@users.noreply.github.com"
           git add src/intro.md
           
@@ -82,7 +40,7 @@ jobs:
             echo "::notice::No changes to commit"
             echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "chore: update waka stats [skip ci]"
+            git commit -m "chore: update waka stats"
             git push
             echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
           fi
