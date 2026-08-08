@@ -68,14 +68,16 @@ titles:
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-774.98%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C247%20hrs%2024%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-775.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                803 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-🌆 Daytime                1429 commits        █████████░░░░░░░░░░░░░░░░   34.43 % 
-🌃 Evening                1453 commits        █████████░░░░░░░░░░░░░░░░   35.01 % 
+🌞 Morning                804 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+🌆 Daytime                1430 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                1453 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
 🌙 Night                  465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 ```
 
@@ -84,17 +86,17 @@ titles:
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.55 % 
-Markdown                 7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-C#                       1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TypeScript               12 hrs 45 mins      ████████████░░░░░░░░░░░░░   47.23 % 
+Markdown                 7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+JavaScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+C#                       1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 24 mins      ███████████████░░░░░░░░░░   61.83 % 
-WebStorm                 9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.42 % 
-Rider                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Claude Code              16 hrs 8 mins       ███████████████░░░░░░░░░░   59.79 % 
+WebStorm                 10 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.17 % 
+Rider                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +112,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-07 02:16:06 UTC
+ Last Updated on 2026-08-08 01:03:41 UTC
 
 <!--END_SECTION:waka-->
 
