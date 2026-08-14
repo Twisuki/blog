@@ -108,7 +108,7 @@ Rider                    4 mins              ░░░░░░░░░░░�
 
 ## 联系方式 Contact me
 
-- E-mail: [suyang233@hotmail.com](suyang233@hotmail.com)
+- E-mail: [hi@twis.uk](mailto://hi@twis.uk)
 - BiliBili: [Nya_Twisuki](https://space.bilibili.com/317707977)
 - Twitter : [Su_Yang_233](https://x.com/suyang_233)
 
