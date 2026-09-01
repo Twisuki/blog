@@ -68,17 +68,17 @@ titles:
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-805.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                841 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌆 Daytime                1484 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌃 Evening                1502 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌙 Night                  469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+🌞 Morning                859 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+🌆 Daytime                1561 commits        █████████░░░░░░░░░░░░░░░░   35.03 % 
+🌃 Evening                1561 commits        █████████░░░░░░░░░░░░░░░░   35.03 % 
+🌙 Night                  475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 
@@ -86,22 +86,22 @@ titles:
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.67 % 
-TypeScript               14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.37 % 
-SCSS                     3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown                 13 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   35.99 % 
+TypeScript               13 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+SCSS                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Other                    2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-WebStorm                 33 hrs 20 mins      ███████████████████████░░   91.27 % 
-Pi                       1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Claude Code              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+WebStorm                 30 hrs 26 mins      █████████████████████░░░░   82.12 % 
+Pi                       4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Claude Code              1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Neovim                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 
- Last Updated on 2026-08-31 02:42:25 UTC
+ Last Updated on 2026-09-01 02:54:59 UTC
 
 <!--END_SECTION:waka-->
 
