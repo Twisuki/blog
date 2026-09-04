@@ -17,10 +17,12 @@ titles:
 
 [![Steam](https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199387291268/)  [![Minecraft](https://img.shields.io/badge/Minecraft-Nya__Twisuki-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Nya_Twisuki)  [![Bilibili](https://img.shields.io/badge/Nya__Twisuki-pink.svg?logo=Bilibili)](https://space.bilibili.com/317707977)  ![Name](https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue)  ![University](https://img.shields.io/badge/AI-HNU-red)  ![Gender](https://img.shields.io/badge/Agender-Trans-aqua)
 
-- 我是 Twisuki, 中文名苏阳,来自辽宁.
+- 我是 Twisuki, 中文名苏阳, 来自辽宁.
     - I'm Twisuki, Su_Yang in Chinese, from Liaoning Province, China.
-- 现就读于湖南大学, 学习人工智能.
-    - Learning AI in HNU now.
+- 就读于湖南大学, 学习人工智能.
+    - Learning AI in HNU.
+- 现在在 bilibili 担任前端实习生.
+    - Currently, a front-end intern at bilibili.
 
 ## 开发概况 Development
 
@@ -34,34 +36,28 @@ titles:
     - Currently working in a student organization at Hunan University, maintaining a React/Taro mini program.
 
 <VPCard
-  title="HMOIndex"
-  desc="湖南大学 HMO - Minectaft 岳麓幻境社官网"
-  logo="https://raw.githubusercontent.com/Twisuki/HMOIndex/refs/heads/master/public/favicon.ico"
-  link="https://github.com/Twisuki/HMOIndex"
-/>
-<VPCard
-  title="blog"
-  desc="苏阳的 blog(本页面仓库)"
-  logo="https://github.com/Twisuki.png"
-  link="https://github.com/Twisuki/blog"
+  title="weihuda_weapp_tsumiki"
+  desc="湖南大学微生活小程序前端 Tsumiki 版"
+  logo="https://github.com/qnxg.png"
+  link="https://github.com/qnxg/weihuda_weapp_tsumiki"
 />
 <VPCard
   title="homepage"
-  desc="基于 nuxt 的个人主页导航页"
+  desc="个人主页"
   logo="https://github.com/Twisuki.png"
   link="https://github.com/Twisuki/homepage"
 />
 <VPCard
-  title="hmo_mms"
-  desc="岳麓幻境社成员管理系统"
-  logo="https://raw.githubusercontent.com/Twisuki/HMOIndex/refs/heads/master/public/favicon.ico"
-  link="https://github.com/HMODeveloper/hmo_mms"
+  title="ohday"
+  desc="ohday - Chainable, immutable, lightweight date/time processing library."
+  logo="https://github.com/Twisuki.png"
+  link="https://github.com/Twisuki/ohday"
 />
 <VPCard
-  title="Application"
-  desc="湖南大学机器人学院学生手册"
-  logo="https://raw.githubusercontent.com/TZLakeStudio/Application/refs/heads/react/client/static/img/logo.png"
-  link="https://github.com/TZLakeStudio/Application"
+  title="HMOIndex"
+  desc="湖南大学 HMO - Minecraft 岳麓幻境社官网"
+  logo="https://github.com/HMODeveloper.png"
+  link="https://github.com/Twisuki/HMOIndex"
 />
 
 ## 近期动态 Recent Activity
