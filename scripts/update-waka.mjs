@@ -2,8 +2,8 @@
 // 用法: node scripts/update-waka.mjs <源 README 路径> <目标文件路径>
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const START = '<!--START_SECTION:waka-->';
-const END = '<!--END_SECTION:waka-->';
+const START = '<!--WAKA_BLOG_SYNC_START-->';
+const END = '<!--WAKA_BLOG_SYNC_END-->';
 
 const [sourcePath, targetPath] = process.argv.slice(2);
 if (!sourcePath || !targetPath) {

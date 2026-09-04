@@ -66,7 +66,7 @@ titles:
 
 ## 近期动态 Recent Activity
 
-<!--START_SECTION:waka-->
+<!--WAKA_BLOG_SYNC_START-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2045%20mins-blue?style=flat)
 
@@ -103,7 +103,7 @@ PyCharm                  12 mins             ░░░░░░░░░░░�
 
  Last Updated on 2026-09-04 02:16:55 UTC
 
-<!--END_SECTION:waka-->
+<!--WAKA_BLOG_SYNC_END-->
 
 ![GitHub Snake](https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg)
 
