@@ -64,40 +64,33 @@ titles:
 
 <!--WAKA_BLOG_SYNC_START-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2045%20mins-blue?style=flat)
+This Week:
+![Code Time](https://img.shields.io/badge/Code%20Time-29%20hrs%2012%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-32.20k-aqua?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.40%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                867 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                1580 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+From Hello World:
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2052%20mins-green?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-900.71k-lime?style=flat)
 
 ```text
-💬 Programming Languages: 
-TypeScript               11 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Markdown                 9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Other                    7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-SCSS                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Top Languages This Week:
 
-🔥 Editors: 
-WebStorm                 22 hrs 53 mins      ████████████████░░░░░░░░░   62.84 % 
-Pi                       11 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Claude Code              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Neovim                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+- TypeScript            11 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░ 30.71 %
+- Markdown              9 hrs 23 mins    ██████░░░░░░░░░░░░░░░░░░░ 25.79 %
+- Other                 7 hrs 13 mins    █████░░░░░░░░░░░░░░░░░░░░ 19.84 %
+- SCSS                  2 hrs 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  5.91 %
+- JSON                  1 hr 24 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  3.86 %
+
+And Top Editors:
+
+- WebStorm              22 hrs 53 mins   ████████████████░░░░░░░░░ 62.84 %
+- Pi                    11 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░ 31.73 %
+- Claude Code           1 hr 1 min       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81 %
+- Neovim                45 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.07 %
+- PyCharm               12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.55 %
 ```
 
-
- Last Updated on 2026-09-04 02:16:55 UTC
+Last Updated on 2026-09-04 09:44:53 UTC
 
 <!--WAKA_BLOG_SYNC_END-->
 
