@@ -45,14 +45,9 @@ export default sidebar({
       expanded: true,
       children: [
         {
-          text: "弦月档案",
+          text: "个人主站",
           icon: "link",
-          link: "https://hxy.twis.uk",
-        },
-        {
-          text: "线代笔记",
-          icon: "link",
-          link: "https://page.twis.uk/Notes-on-Linear-Algebra",
+          link: "https://www.twis.uk",
         },
       ],
     },

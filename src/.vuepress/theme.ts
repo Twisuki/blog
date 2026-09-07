@@ -9,7 +9,7 @@ export default hopeTheme(
 
     author: {
       name: "Twisuki",
-      url: "https://twis.uk",
+      url: "https://www.twis.uk",
     },
 
     logo: "avatar.png",
@@ -35,10 +35,9 @@ export default hopeTheme(
       description: "一只喜欢到处贴贴的小猫娘",
       intro: "/intro.html",
       medias: {
-        "BiliBili": "https://space.bilibili.com",
-        "Email": "mailto:suyang233@hotmail.com",
+        "BiliBili": "https://space.bilibili.com/317707977",
+        "Email": "mailto://hi@twis.uk",
         "GitHub": "https://github.com/Twisuki",
-        "Gmail": "mailto:twisuki@gmail.com",
         "Steam": "https://steamcommunity.com/profiles/76561199387291268/",
         "Twitter": "https://x.com/suyang_233",
         "163Music": "https://y.music.163.com/m/user?id=6428013647",
