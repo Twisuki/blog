@@ -21,7 +21,7 @@ actions:
     type: default
 
 highlights:
-  - header: 苏喵的小工具
+  - header: 苏喵的小玩具
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -29,70 +29,40 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: StarredDir
-        icon: mdi:terminal
-        details: 基于bat批处理文件的路径收藏夹
-        link: https://github.com/Twisuki/starred-dir
-    
-      - title: Kirafint
-        icon: tabler:brand-nodejs
-        details: 基于Deepseek API和本地模型的AI Demo
-        link: https://github.com/Twisuki/Kirafint
+      - title: ohday
+        icon: tabler:clock-hour-4
+        details: Chainable, immutable, lightweight date/time processing library
+        link: https://github.com/Twisuki/ohday
 
-      - title: GTMC T版绿萌教程
-        icon: material-symbols:book-3-outline-rounded
-        details: 一份从零到一的绿萌教程
-        link: https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F
+      - title: custom_waka_readme
+        icon: simple-icons:wakatime
+        details: 自定义模板的 WakaTime README 渲染器
+        link: https://github.com/Twisuki/custom_waka_readme
 
-      - title: 弦月档案
-        icon: material-symbols:account-tree-outline-rounded
-        details: MC up火弦月的投影资源站
-        link: https://hxy.twis.uk/
+      - title: neo-filter
+        icon: mdi:filter-variant
+        details: Chainable array filter utility with sorting, pagination and OR-branch support
+        link: https://github.com/Twisuki/neo-filter
 
-      - title: 线代笔记
-        icon: tabler:brand-matrix
-        details: 线性代数学习笔记
-        link: https://twis.uk/Notes-on-Linear-Algebra/
-
-  - header: 开发工具
+  - header: 我的项目
     image: /assets/image/ui.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     features:
-      - title: LaTeX Live
-        icon: tabler:tex
-        details: 妈咪叔的LaTeX公式编辑器
-        link: https://www.latexlive.com/
+      - title: homepage
+        icon: mdi:home-account
+        details: 个人主页 (Next.js)
+        link: https://github.com/Twisuki/homepage
 
-      - title: System Informer
-        icon: mdi:subtasks
-        details: 功能强大的任务管理器
-        link: https://www.systeminformer.com/
+      - title: blog
+        icon: simple-icons:vuepress
+        details: 本博客, Powered by Vuepress-theme-hope
+        link: https://github.com/Twisuki/blog
 
-      - title: Windows Terminal
-        icon: mdi:terminal
-        details: WT终端(win11已内置)
-        link: https://learn.microsoft.com/zh-cn/windows/terminal/install
-
-  - header: 其他工具
-    image: /assets/image/blog.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    features:
-      - title: Gif123
-        icon: mdi:file-gif-box
-        details: 快速gif录制工具
-        link: https://github.com/aardio/Gif123
-
-      - title: Mp3Tag
-        icon: solar:tag-bold
-        details: MP3文件Tag信息编辑器
-        link: https://www.mp3tag.de/en/index.html
-
-      - title: wavetone
-        icon: solar:music-notes-bold-duotone
-        details: 音高分析, bpm分析软件, 辅助扒谱工具
-        link: ./404
+      - title: weihuda_weapp_tsumiki
+        icon: simple-icons:wechat
+        details: 湖南大学微生活小程序前端 Tsumiki 版
+        link: https://github.com/qnxg/weihuda_weapp_tsumiki
 
   - header: 使用项目与特别鸣谢
     image: /assets/image/advanced.svg
