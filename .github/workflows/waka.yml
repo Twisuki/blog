@@ -3,7 +3,7 @@ name: 更新 Waka 数据并重新部署
 on:
   push:
     branches:
-      - hope
+      - main
   schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
