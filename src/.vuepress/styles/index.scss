@@ -24,6 +24,45 @@
 	float: right;
 }
 
+// 修复 vp-portfolio-content 的 align-items: center 让代码块/图等溢出
+// 注意: 代码块外层是 #markdown-content > div.language-text,不是直接子元素
+.vp-portfolio-content {
+	// 强制 #markdown-content 自身不超出容器宽度
+	> #markdown-content {
+		align-self: stretch;
+		max-width: 100%;
+		min-width: 0;
+	}
+
+	// 可能溢出的元素 (直接子 + 经 #markdown-content 中转的孙级)
+	> figure,
+	> .vp-card-container,
+	> table,
+	> img,
+	> blockquote,
+	> #markdown-content > div[class*="language-"],
+	> #markdown-content > figure,
+	> #markdown-content > table,
+	> #markdown-content > blockquote {
+		align-self: stretch;
+		max-width: 100%;
+		min-width: 0;
+	}
+
+	// 所有 <pre> 强制内部横滚 (覆盖主题只在 wrapper 内才生效的规则)
+	pre {
+		overflow-x: auto;
+		max-width: 100%;
+		min-width: 0;
+		box-sizing: border-box;
+	}
+
+	// 代码块内字号小屏再小一档
+	div[class*="language-"] pre {
+		font-size: 0.75rem;
+	}
+}
+
 // 手机模式介绍页头像
 @media screen and (max-width: 768px) {
 	.vp-portfolio {
