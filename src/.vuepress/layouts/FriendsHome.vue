@@ -1,11 +1,11 @@
 <template>
-  <BlogWrapper>
+  <Layout>
     <div class="vp-page vp-blog">
       <BlogHero>
-        <template #info="{ tagline, isFullScreen, text, alt }">
-          <HitokotoBlogHero v-if="text" :text="text" :alt="alt" />
+        <template #heroInfo="{ tagline, isFullScreen, text }">
+          <HitokotoBlogHero v-if="text" :text="text" />
         </template>
-        <template #bg>
+        <template #heroBg>
           <BingHeroBackground />
         </template>
       </BlogHero>
@@ -26,20 +26,19 @@
         </DropTransition>
       </div>
     </div>
-  </BlogWrapper>
+  </Layout>
 </template>
 
 <script lang="ts" setup>
-import BlogHero from 'vuepress-theme-hope/blog/components/BlogHero.js'
-import BlogWrapper from 'vuepress-theme-hope/blog/components/BlogWrapper.js'
-import InfoPanel from 'vuepress-theme-hope/blog/components/InfoPanel.js'
-import ProjectPanel from 'vuepress-theme-hope/blog/components/ProjectPanel.js'
-import MarkdownContent from 'vuepress-theme-hope/components/MarkdownContent.js'
-import { DropTransition } from 'vuepress-theme-hope/components/transitions/DropTransition.js'
+import BlogHero from '@theme-hope/components/blog/BlogHero.js'
+import InfoPanel from '@theme-hope/components/blog/InfoPanel.js'
+import ProjectPanel from '@theme-hope/components/blog/ProjectPanel.js'
+import Layout from '@theme-hope/layouts/base/Layout.js'
+import { DropTransition } from 'vuepress-theme-hope/client'
+import { Content as MarkdownContent } from 'vuepress/client'
 import BingHeroBackground from 'vuepress-theme-hope/presets/BingHeroBackground.js'
 import HitokotoBlogHero from 'vuepress-theme-hope/presets/HitokotoBlogHero.js'
 
-import 'vuepress-theme-hope/modules/blog/styles/home.scss'
 import friends from "../friends"
 </script>
 

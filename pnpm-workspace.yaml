@@ -1,2 +1,10 @@
+minimumReleaseAgeExcludePrune: true
+trustPolicy: no-downgrade
+shellEmulator: true
+
 allowBuilds:
+  "@parcel/watcher": true
   esbuild: true
+
+onlyBuiltDependencies:
+  - esbuild
