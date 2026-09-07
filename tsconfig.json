@@ -1,19 +1,19 @@
 {
-	"compilerOptions": {
-		"module": "NodeNext",
-		"moduleResolution": "NodeNext",
-		"target": "ES2022",
-		"paths": {
-			"@theme-hope/*": [
-				"./node_modules/vuepress-theme-hope/lib/*"
-			]
-		}
-	},
-	"include": [
-		"src/.vuepress/**/*.ts",
-		"src/.vuepress/**/*.vue"
-	],
-	"exclude": [
-		"node_modules"
-	]
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "paths": {
+      "@theme-hope/*": [
+        "./node_modules/vuepress-theme-hope/lib/*"
+      ]
+    }
+  },
+  "include": [
+    "src/.vuepress/**/*.ts",
+    "src/.vuepress/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

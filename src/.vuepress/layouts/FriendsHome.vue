@@ -1,8 +1,21 @@
+<script lang="ts" setup>
+import BlogHero from "@theme-hope/components/blog/BlogHero.js"
+import InfoPanel from "@theme-hope/components/blog/InfoPanel.js"
+import ProjectPanel from "@theme-hope/components/blog/ProjectPanel.js"
+import Layout from "@theme-hope/layouts/base/Layout.js"
+import { DropTransition } from "vuepress-theme-hope/client"
+import BingHeroBackground from "vuepress-theme-hope/presets/BingHeroBackground.js"
+import HitokotoBlogHero from "vuepress-theme-hope/presets/HitokotoBlogHero.js"
+import { Content as MarkdownContent } from "vuepress/client"
+
+import friends from "../friends"
+</script>
+
 <template>
   <Layout>
     <div class="vp-page vp-blog">
       <BlogHero>
-        <template #heroInfo="{ tagline, isFullScreen, text }">
+        <template #heroInfo="{ _tagline, _isFullScreen, text }">
           <HitokotoBlogHero v-if="text" :text="text" />
         </template>
         <template #heroBg>
@@ -28,19 +41,6 @@
     </div>
   </Layout>
 </template>
-
-<script lang="ts" setup>
-import BlogHero from '@theme-hope/components/blog/BlogHero.js'
-import InfoPanel from '@theme-hope/components/blog/InfoPanel.js'
-import ProjectPanel from '@theme-hope/components/blog/ProjectPanel.js'
-import Layout from '@theme-hope/layouts/base/Layout.js'
-import { DropTransition } from 'vuepress-theme-hope/client'
-import { Content as MarkdownContent } from 'vuepress/client'
-import BingHeroBackground from 'vuepress-theme-hope/presets/BingHeroBackground.js'
-import HitokotoBlogHero from 'vuepress-theme-hope/presets/HitokotoBlogHero.js'
-
-import friends from "../friends"
-</script>
 
 <style lang="scss">
 main.friends.round-avatar {

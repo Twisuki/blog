@@ -1,19 +1,26 @@
 {
   "name": "twisuki-pages",
-  "description": "Twisuki的个人网页",
-  "version": "0.0.0",
-  "license": "Apache 2.0",
   "type": "module",
+  "version": "0.0.0",
+  "description": "Twisuki的个人网页",
+  "license": "Apache 2.0",
   "scripts": {
     "build": "vuepress-vite build src",
     "clean-dev": "vuepress-vite dev src --clean-cache",
     "dev": "vuepress-vite dev src",
-    "update": "pnpm dlx vp-update"
+    "update": "pnpm dlx vp-update",
+    "lint": "eslint . --concurrency auto",
+    "fix": "eslint . --fix --concurrency auto",
+    "prepare": "husky"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^9.5.1",
     "@vuepress/bundler-vite": "2.0.0-rc.30",
     "@vuepress/helper": "2.0.0-rc.91",
     "@vuepress/plugin-docsearch": "2.0.0-rc.95",
+    "eslint": "^10.9.1",
+    "eslint-plugin-format": "^2.0.1",
+    "husky": "^9.1.7",
     "katex": "^0.16.22",
     "mermaid": "^11.11.0",
     "sass-embedded": "^1.99.0",
