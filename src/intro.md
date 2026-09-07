@@ -65,32 +65,31 @@ titles:
 <!--WAKA_BLOG_SYNC_START-->
 
 This Week:
-![Code Time](https://img.shields.io/badge/Code%20Time-30%20hrs%202%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-31.51k-aqua?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-30%20hrs%2025%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-27.75k-aqua?style=flat)
 
 From Hello World:
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2055%20mins-green?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-903.96k-lime?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C375%20hrs%207%20mins-green?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-904.08k-lime?style=flat)
 
 ```text
 Top Languages This Week:
 
-- TypeScript            11 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░ 30.92 %
-- Markdown              9 hrs 39 mins    ██████░░░░░░░░░░░░░░░░░░░ 25.07 %
-- Other                 8 hrs 30 mins    ██████░░░░░░░░░░░░░░░░░░░ 22.08 %
-- SCSS                  1 hr 52 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  4.86 %
-- YAML                  1 hr 47 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  4.64 %
+- TypeScript            12 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░ 33.42 %
+- Markdown              9 hrs 4 mins     ██████░░░░░░░░░░░░░░░░░░░ 23.62 %
+- Other                 8 hrs 1 min      █████░░░░░░░░░░░░░░░░░░░░ 20.88 %
+- SCSS                  2 hrs 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  6.01 %
+- YAML                  1 hr 43 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  4.50 %
 
 And Top Editors:
 
-- WebStorm              24 hrs 35 mins   ████████████████░░░░░░░░░ 63.80 %
-- Pi                    12 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░ 33.56 %
-- Neovim                25 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.10 %
+- WebStorm              25 hrs 26 mins   █████████████████░░░░░░░░ 66.16 %
+- Pi                    12 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░ 32.10 %
 - Claude Code           23 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.02 %
-- PyCharm               12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.52 %
+- Neovim                16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.72 %
 ```
 
-Last Updated on 2026-09-06 02:12:43 UTC
+Last Updated on 2026-09-07 02:10:21 UTC
 
 <!--WAKA_BLOG_SYNC_END-->
 
