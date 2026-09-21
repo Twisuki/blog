@@ -65,31 +65,31 @@ titles:
 <!--WAKA_BLOG_SYNC_START-->
 
 This Week:
-![Code Time](https://img.shields.io/badge/Code%20Time-29%20hrs%2051%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-43.91k-aqua?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-31%20hrs%205%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-39.56k-aqua?style=flat)
 
 From Hello World:
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C443%20hrs%205%20mins-green?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2026%20mins-green?style=flat)
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-996.88k-lime?style=flat)
 
 ```text
 Top Languages This Week:
 
-- TypeScript            17 hrs 57 mins   ████████████░░░░░░░░░░░░░ 48.85 %
-- Other                 6 hrs 53 mins    █████░░░░░░░░░░░░░░░░░░░░ 18.77 %
-- Markdown              6 hrs 36 mins    ████░░░░░░░░░░░░░░░░░░░░░ 17.99 %
-- JSON                  3 hrs 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  9.10 %
-- YAML                  37 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.69 %
+- TypeScript            20 hrs 1 min     █████████████░░░░░░░░░░░░ 53.42 %
+- Other                 6 hrs 23 mins    ████░░░░░░░░░░░░░░░░░░░░░ 17.07 %
+- Markdown              6 hrs 3 mins     ████░░░░░░░░░░░░░░░░░░░░░ 16.14 %
+- JSON                  3 hrs 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  8.90 %
+- YAML                  37 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.66 %
 
 And Top Editors:
 
-- WebStorm              25 hrs 17 mins   █████████████████░░░░░░░░ 68.83 %
-- Pi                    10 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░ 28.03 %
-- Neovim                52 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.37 %
-- Word                  17 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.77 %
+- WebStorm              26 hrs 52 mins   ██████████████████░░░░░░░ 71.71 %
+- Pi                    9 hrs 26 mins    ██████░░░░░░░░░░░░░░░░░░░ 25.21 %
+- Neovim                52 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.32 %
+- Word                  17 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.76 %
 ```
 
-Last Updated on 2026-09-20 02:41:41 UTC
+Last Updated on 2026-09-21 02:39:10 UTC
 
 <!--WAKA_BLOG_SYNC_END-->
 
