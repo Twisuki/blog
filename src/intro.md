@@ -65,30 +65,30 @@ titles:
 <!--WAKA_BLOG_SYNC_START-->
 
 This Week:
-![Code Time](https://img.shields.io/badge/Code%20Time-35%20hrs%2050%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-43.71k-aqua?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-33%20hrs%201%20min-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-39.00k-aqua?style=flat)
 
 From Hello World:
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2053%20mins-green?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-1%2C014.93k-lime?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2050%20mins-green?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-1%2C026.93k-lime?style=flat)
 
 ```text
 Top Languages This Week:
 
-- TypeScript            24 hrs 23 mins   ███████████████░░░░░░░░░░ 60.01 %
-- Other                 4 hrs 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░ 11.80 %
-- JSON                  4 hrs 0 mins     ██░░░░░░░░░░░░░░░░░░░░░░░  9.87 %
-- Markdown              3 hrs 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  9.21 %
-- YAML                  58 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.39 %
+- TypeScript            23 hrs 7 mins    ███████████████░░░░░░░░░░ 60.36 %
+- Other                 5 hrs 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░ 13.79 %
+- Markdown              3 hrs 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  8.88 %
+- JSON                  2 hrs 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  7.27 %
+- JavaScript            1 hr 3 mins      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78 %
 
 And Top Editors:
 
-- WebStorm              34 hrs 6 mins    █████████████████████░░░░ 83.92 %
-- Pi                    6 hrs 29 mins    ████░░░░░░░░░░░░░░░░░░░░░ 15.99 %
-- Neovim                2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.08 %
+- WebStorm              31 hrs 7 mins    ████████████████████░░░░░ 81.27 %
+- Pi                    7 hrs 8 mins     █████░░░░░░░░░░░░░░░░░░░░ 18.64 %
+- Neovim                2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.09 %
 ```
 
-Last Updated on 2026-09-24 02:30:47 UTC
+Last Updated on 2026-09-25 02:47:17 UTC
 
 <!--WAKA_BLOG_SYNC_END-->
 
