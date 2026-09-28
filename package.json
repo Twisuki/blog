@@ -18,6 +18,7 @@
     "@vuepress/bundler-vite": "2.0.0-rc.30",
     "@vuepress/helper": "2.0.0-rc.91",
     "@vuepress/plugin-docsearch": "2.0.0-rc.95",
+    "@vuepress/plugin-llms": "2.0.0-rc.135",
     "eslint": "^10.9.1",
     "eslint-plugin-format": "^2.0.1",
     "husky": "^9.1.7",

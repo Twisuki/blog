@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress"
-
+import { llms } from "./llms.js"
 import theme from "./theme.js"
 
 export default defineUserConfig({
@@ -10,6 +10,10 @@ export default defineUserConfig({
   description: "TwisBlog, Twisuki乱七八糟的Blog",
 
   theme,
+
+  plugins: [
+    llms,
+  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
