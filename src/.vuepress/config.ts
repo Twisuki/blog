@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress"
-import { blogs } from "./blogs.js"
-import { llms } from "./llms.js"
+import { blogs } from "./plugins/blogs.js"
+import { llms } from "./plugins/llms.js"
+import { waka } from "./plugins/waka.js"
 import theme from "./theme.js"
 
 export default defineUserConfig({
@@ -15,6 +16,7 @@ export default defineUserConfig({
   plugins: [
     llms,
     blogs,
+    waka,
   ],
 
   // 和 PWA 一起启用
