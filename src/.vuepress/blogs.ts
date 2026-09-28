@@ -30,7 +30,7 @@ function getExcerpt(app: App, page: Page): string[] {
     .filter((p: string) => p.length > 0)
 }
 
-export const list: Plugin = {
+export const blogs: Plugin = {
   name: "vuepress-plugin-twis-blogs",
 
   onGenerated(app: App): void {
@@ -39,7 +39,7 @@ export const list: Plugin = {
       .sort(getSortOrder)
       .map(page => ({
         title: page.frontmatter.title,
-        url: page.path,
+        path: page.path,
         date: od(page.frontmatter.date).s,
         excerpt: getExcerpt(app, page),
         tags: getTags(page),
