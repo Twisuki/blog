@@ -52,4 +52,17 @@ export default sidebar({
       ],
     },
   ],
+  "/notes/other/slime-tech/": [
+    {
+      text: "笔记 Notes",
+      icon: "book",
+      link: "/notes/",
+    },
+    {
+      text: "绿萌教程 Slime Tech",
+      icon: "lucide:book-open",
+      collapsible: true,
+      children: "structure",
+    },
+  ],
 })

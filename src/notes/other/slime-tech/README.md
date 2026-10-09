@@ -1,6 +1,6 @@
 ---
 title: 绿萌教程
-icon: lucide:play
+icon: lucide:book-open
 date: 2025-01-20
 category:
   - SlimeTech

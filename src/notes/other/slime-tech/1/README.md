@@ -1,6 +1,6 @@
 ---
 title: 概论
-icon: lucide:play
+icon: lucide:star
 date: 2025-01-20
 category:
   - SlimeTech
