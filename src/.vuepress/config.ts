@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress"
-
+import { blogs } from "./plugins/blogs.js"
+import { llms } from "./plugins/llms.js"
+import { waka } from "./plugins/waka.js"
 import theme from "./theme.js"
 
 export default defineUserConfig({
@@ -10,6 +12,12 @@ export default defineUserConfig({
   description: "TwisBlog, Twisuki乱七八糟的Blog",
 
   theme,
+
+  plugins: [
+    llms,
+    blogs,
+    waka,
+  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
