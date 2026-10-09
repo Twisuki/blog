@@ -1,7 +1,7 @@
 ---
 title: 组织
 icon: lucide:star
-date: 2025-01-20
+date: 2025-05-17
 category:
   - SlimeTech
 tag:

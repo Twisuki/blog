@@ -1,7 +1,7 @@
 ---
 title: 概论
 icon: lucide:star
-date: 2025-01-20
+date: 2025-01-21
 category:
   - SlimeTech
 tag:
