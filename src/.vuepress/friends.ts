@@ -91,5 +91,11 @@ const friends: ThemeBlogHomeProjectOptions[] = [
     desc: "缥缈，游荡，没有来路与归处。",
     link: "https://moyuin.top",
   },
+  {
+    name: "OakChaser",
+    icon: "https://oakchaser.me",
+    desc: "Do not drink the water inside the mouse.",
+    link: "https://oakchaser.me/avatar.png",
+  },
 ]
 export default friends
