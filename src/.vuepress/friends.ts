@@ -93,9 +93,9 @@ const friends: ThemeBlogHomeProjectOptions[] = [
   },
   {
     name: "OakChaser",
-    icon: "https://oakchaser.me",
+    icon: "https://oakchaser.me/avatar.webp",
     desc: "Do not drink the water inside the mouse.",
-    link: "https://oakchaser.me/avatar.png",
+    link: "https://oakchaser.me",
   },
 ]
 export default friends
