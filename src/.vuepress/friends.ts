@@ -85,5 +85,11 @@ const friends: ThemeBlogHomeProjectOptions[] = [
     desc: "杯中柠汁",
     link: "https://naloveyuki.top",
   },
+  {
+    name: "Moyuin",
+    icon: "https://moyuin.top/avatar.webp",
+    desc: "缥缈，游荡，没有来路与归处。",
+    link: "https://moyuin.top",
+  },
 ]
 export default friends
