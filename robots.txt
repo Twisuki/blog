@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+
+# Algolia-Crawler-Verif: F67711B4757B55A4
+
+User-agent:*
+Disallow:
+
+Sitemap: https://blog.twis.uk/sitemap.xml
