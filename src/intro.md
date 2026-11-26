@@ -64,38 +64,38 @@ titles:
 
 <!--WAKA_BLOG_SYNC_START-->
 
-<!--WAKA_ORIGIN_TIME_WEEK:75228.070095-->
-<!--WAKA_ORIGIN_TIME_ALL:6010427.136279-->
-<!--WAKA_ORIGIN_LINES_WEEK:32494-->
-<!--WAKA_ORIGIN_LINES_ALL:1336050-->
+<!--WAKA_ORIGIN_TIME_WEEK:71882.070685-->
+<!--WAKA_ORIGIN_TIME_ALL:6017431.626531-->
+<!--WAKA_ORIGIN_LINES_WEEK:34414-->
+<!--WAKA_ORIGIN_LINES_ALL:1342382-->
 
 This Week:
-![Code Time](https://img.shields.io/badge/Code%20Time-20%20hrs%2053%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-32.49k-aqua?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-19%20hrs%2058%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-34.41k-aqua?style=flat)
 
 From Hello World:
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2033%20mins-green?style=flat)
-![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-1%2C336.05k-lime?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2030%20mins-green?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-1%2C342.38k-lime?style=flat)
 
 ```text
 Top Languages This Week:
 
-- Other                 19 hrs 49 mins   ████████████░░░░░░░░░░░░░ 48.68 %
-- TypeScript            16 hrs 25 mins   ██████████░░░░░░░░░░░░░░░ 40.33 %
-- Markdown              2 hrs 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29 %
-- CSS                   33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.35 %
-- Bash                  21 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.88 %
+- Other                 19 hrs 54 mins   ████████████░░░░░░░░░░░░░ 49.93 %
+- TypeScript            15 hrs 47 mins   ██████████░░░░░░░░░░░░░░░ 39.60 %
+- Markdown              2 hrs 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░  6.84 %
+- Bash                  21 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.90 %
+- JSON                  20 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.87 %
 
 And Top Editors:
 
-- WebStorm              21 hrs 14 mins   █████████████░░░░░░░░░░░░ 52.16 %
-- Pi                    17 hrs 4 mins    ██████████░░░░░░░░░░░░░░░ 41.93 %
-- Neovim                1 hr 13 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  3.01 %
-- VS Code               1 hr 10 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  2.88 %
+- WebStorm              20 hrs 41 mins   █████████████░░░░░░░░░░░░ 51.87 %
+- Pi                    17 hrs 27 mins   ███████████░░░░░░░░░░░░░░ 43.76 %
+- Neovim                1 hr 9 mins      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91 %
+- VS Code               33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.42 %
 - PowerPoint            0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.03 %
 ```
 
-Last Updated on 2026-11-25 06:20:33 UTC
+Last Updated on 2026-11-26 06:13:23 UTC
 
 <!--WAKA_BLOG_SYNC_END-->
 
